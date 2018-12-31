@@ -1,0 +1,3632 @@
+START_DAY,END_DAY,COST,MAKE,MODEL
+254,827,73045,Mazda,Miata
+125,442,32688,Toyota,Tundra
+223,274,6416,Chevrolet,Monte Carlo
+379,748,74722,Mitsubishi,Outlander
+491,730,26811,Dodge,Grand Caravan
+937,962,3408,Chevrolet,Equinox
+533,720,31777,Ford,Mustang
+637,826,35856,Buick,Cascada
+163,252,19496,Mazda,Miata
+249,766,58747,Chevrolet,Camaro
+324,921,88402,Subaru,Crosstrek
+308,541,40679,Chevrolet,Trax
+39,882,116561,Hyundai,Azera
+750,889,29412,Ford,Flex
+918,943,5977,BMW,7 Series
+627,838,42963,Chevrolet,Express
+44,939,49380,Infinity,QX50
+341,926,84416,Subaru,Ascent
+534,935,36441,Cadillac,CT6
+443,466,5345,Toyota,Sienna
+666,955,57587,Ford,Super Duty
+49,96,7118,Kia,Soul
+541,854,61253,Lexus,LC
+22,937,58213,Chevrolet,Express
+108,827,126910,GMC,Savana
+343,738,24549,Dodge,Durango
+622,781,31678,Mercedes,GLE
+187,1004,115404,Mercedes,E-Class Wagon
+148,869,109319,Toyota,Prius
+327,872,72795,Mercedes,Roadster
+245,758,96510,Toyota,Tundra
+127,678,114384,Chevrolet,Cruze
+451,660,47106,Hyundai,Santa Fe
+737,786,12866,Infinity,Q50
+764,865,10371,Ford,Super Duty
+554,1023,41223,Jeep,Wrangler JK
+23,322,29110,Honda,Pilot
+307,978,38349,Mitsubishi,Outlander
+706,815,19608,Hyundai,Ioniq
+392,773,67607,GMC,Terrain
+410,937,64971,Chevrolet,Tahoe
+225,364,21897,Lexus,GS
+832,897,7868,Subaru,Forester
+690,791,14979,Chevrolet,Tahoe
+114,313,12218,Dodge,Grand Caravan
+567,626,11289,Ford,F250
+87,822,104611,Hyundai,Elantra
+349,650,48272,Hyundai,Accent
+399,598,32520,Honda,Accord
+312,759,26208,Mazda,Miata
+237,362,17254,Toyota,Prius
+819,822,636,Subaru,Outback
+33,818,79394,Chevrolet,Malibu
+245,454,31154,Honda,Pilot
+118,597,89908,Mazda,CX-3
+631,706,15463,Cadillac,Escalade
+307,550,55470,Mercedes,GLE
+741,818,15859,Chevrolet,Trax
+556,751,16232,Honda,Accord
+362,669,33145,Buick,Envision
+90,613,68932,Infinity,Q70
+84,679,70075,Chevrolet,Trax
+217,612,43678,Dodge,Journey
+198,991,133635,Ford,Edge
+185,502,27330,Lexus,GX
+435,654,23275,Jeep,Wrangler JK
+600,823,43719,Lexus,GS
+745,956,51101,Subaru,Ascent
+165,996,58764,Mercedes,E-Class Wagon
+280,819,77841,GMC,Terrain
+165,784,50534,Honda,CR-V
+367,706,43565,Ford,Ecosport
+78,235,24934,Ford,F150
+286,415,26714,Ford,Flex
+113,722,62475,Toyota,Land Cruiser
+110,489,70421,Buick,Encore
+97,152,14612,Toyota,Camry
+293,392,16771,Hyundai,Ioniq
+385,396,1981,Ford,Super Duty
+897,974,10375,Mitsubishi,Outlander
+692,1021,51640,Ford,Expedition
+74,867,91844,Toyota,Avalon
+607,976,46890,Honda,Pilot
+132,685,105764,Kia,Niro
+471,576,22115,Honda,Accord
+312,627,62373,Buick,Lacrosse
+229,474,29119,BMW,X Series
+827,838,1423,GMC,Sierra
+901,958,4267,Mitsubishi,Eclipse
+844,967,21042,Ford,Focus
+348,387,5203,Honda,HR-V
+395,916,69535,Toyota,RAV4
+71,794,100569,Dodge,Durango
+34,185,22099,Hyundai,Accent
+48,55,1389,Toyota,Corolla
+517,562,5634,Ford,GT
+241,624,45773,GMC,Terrain
+294,531,29341,Kia,Sedona
+98,513,97287,Lexus,NX
+268,701,63169,Dodge,Journey
+21,564,63845,Jeep,Grand Cherokee
+346,617,68661,Subaru,Ascent
+708,801,7902,Honda,HR-V
+917,986,8202,Toyota,Highlander
+251,812,65580,Dodge,Challenger
+149,396,48004,Lexus,GS
+220,991,126917,Mercedes,GLA
+96,753,75860,Ford,Escape
+13,382,54453,Ford,Taurus
+285,742,60709,Ford,Mustang
+150,497,36891,Ford,Focus
+165,886,118662,Honda,HR-V
+400,587,32966,Mazda,CX-5
+45,988,125164,Ford,Expedition
+85,470,85347,Mazda,Miata
+348,403,6530,GMC,Yukon
+93,676,65476,GMC,Acadia
+476,817,68214,Mazda,CX-9
+243,730,90572,Mercedes,S-Class
+585,742,37401,Kia,Sportage
+47,804,96870,Ford,Expedition
+66,329,54098,Chevrolet,Traverse
+232,607,48402,Buick,Cascada
+396,887,94068,Dodge,Grand Caravan
+726,807,15793,Lexus,NX
+94,179,22079,Lexus,ES
+112,1001,56348,Mercedes,GLS
+130,717,58626,Chevrolet,Bolt
+748,831,20865,Infinity,Q50
+270,597,42318,Kia,Forte
+275,378,13304,Honda,Accord
+46,107,15151,Honda,Fit
+297,840,96965,Mercedes,C-Class
+311,436,32630,Kia,Sorento
+30,623,94792,Honda,CR-V
+73,428,74247,Toyota,RAV4
+68,1005,131651,Lexus,RX
+432,913,34227,Dodge,Charger
+420,651,24799,Dodge,Grand Caravan
+157,992,71217,Ford,Taurus
+9,944,36586,Mercedes,GLA
+313,1016,120501,Dodge,Grand Caravan
+49,362,57011,Hyundai,Sonata
+360,973,32644,Ford,Edge
+234,477,37480,Dodge,Challenger
+89,778,63552,GMC,Canyon
+810,1013,25603,Kia,Sportage
+134,479,69713,Jeep,Compass
+13,244,56565,Dodge,Challenger
+66,555,85988,Lexus,LS
+811,896,9777,Chevrolet,Tahoe
+376,583,24563,BMW,6 Series
+182,415,49559,Subaru,Impreza
+398,587,49581,Hyundai,Accent
+675,902,54901,BMW,M Series
+219,908,106072,Mazda,CX-3
+336,993,24543,Ford,Focus
+142,903,111905,Mercedes,S-Class
+829,956,16916,Jeep,Wrangler JK
+334,447,26692,Buick,Lacrosse
+112,805,116919,Chevrolet,Traverse
+581,652,10898,Kia,K900
+384,679,26009,Chevrolet,Equinox
+465,692,50662,Hyundai,Ioniq
+296,815,95320,Ford,Focus
+422,889,98060,Buick,Regal
+473,898,61972,Buick,Lacrosse
+77,574,77537,Mercedes,C-Class
+116,685,58350,Infinity,QX30
+331,574,40478,Lincoln,Continental
+136,141,1437,Ford,Explorer
+62,935,133732,Lexus,RC
+500,875,26958,Subaru,Impreza
+10,713,107574,Hyundai,Tucson
+632,915,19756,Honda,Clarity
+789,832,6526,Lexus,NX
+172,533,26466,Mitsubishi,Outlander
+122,823,122181,Chevrolet,Bolt
+285,548,59370,Jeep,Wrangler JK
+735,952,19013,Dodge,Ram
+174,483,35422,Toyota,Prius
+450,727,53177,Mercedes,GLC
+395,684,26063,Hyundai,Tucson
+552,1015,102124,Ford,Edge
+110,985,39091,Ford,Escape
+83,228,36379,Ford,Transit
+190,211,2848,Mazda,CX-9
+242,359,16658,Honda,Ridgeline
+423,530,12271,BMW,Z4
+159,376,43264,Jeep,Renegade
+30,831,141927,Cadillac,XT5
+378,455,11116,Ford,Escape
+119,346,33708,Ford,Transit
+73,770,30347,Honda,HR-V
+578,783,45014,GMC,Yukon
+10,763,96181,GMC,Savana
+792,825,5780,Lexus,GX
+398,733,80138,Subaru,Ascent
+561,616,10919,Chevrolet,Equinox
+108,855,106771,Subaru,Legacy
+222,473,44489,Ford,Escape
+78,877,141312,Dodge,Durango
+5,148,30461,GMC,Savana
+446,573,30973,Hyundai,Ioniq
+628,631,579,Chrysler,300
+234,867,109338,Hyundai,Veloster
+357,880,76331,Mitsubishi,Outlander
+688,809,29260,Ford,GT
+220,807,121439,Subaru,Crosstrek
+845,998,19254,Subaru,Crosstrek
+416,853,89376,Infinity,QX50
+444,643,35933,BMW,2 Series
+730,805,17414,BMW,7 Series
+819,998,28424,Ford,Flex
+164,429,66676,Lincoln,Navigator
+201,810,121954,Lexus,RX
+296,1023,58148,Jeep,Compass
+151,566,36069,Honda,Fit
+693,894,31361,Jeep,Wrangler
+341,696,48716,Chevrolet,Spark
+733,1000,30882,Mercedes,E-Class
+204,905,36885,Ford,F250
+99,514,31767,Ford,Ecosport
+144,615,95022,Ford,F250
+269,762,69625,Ford,Explorer
+182,385,30724,BMW,4 Series
+650,823,40389,Buick,Regal
+727,950,57430,Toyota,Tundra
+352,591,56578,Mazda,Miata
+560,727,37426,Lexus,LC
+1,156,33239,Hyundai,Veloster
+232,353,30740,Chevrolet,Impala
+926,941,3142,Toyota,RAV4
+573,700,12866,Dodge,Demon
+75,470,92457,GMC,Acadia
+292,427,14124,Ford,F350
+70,771,53022,Hyundai,Elantra
+419,906,86118,Mercedes,GLC
+386,921,88930,Kia,Sedona
+414,923,78795,BMW,M Series
+588,705,27800,Toyota,Tundra
+47,568,38070,GMC,Canyon
+459,712,32375,Jeep,Grand Cherokee
+484,851,78924,Toyota,Tacoma
+19,412,29854,Toyota,Tacoma
+292,985,65566,Mazda,CX-9
+208,413,35052,Hyundai,Veloster
+498,549,5968,Ford,Edge
+73,228,20918,Lexus,IS
+201,652,65765,Chevrolet,Corvette
+139,436,45708,Jeep,Grand Cherokee
+168,675,55316,Toyota,Avalon
+410,905,84081,Jeep,Renegade
+30,291,23002,Toyota,Corolla
+404,441,3597,Chevrolet,Silverado
+536,913,29838,Lexus,LS
+7,952,99755,Kia,Optima
+63,384,60364,Ford,Focus
+16,239,28815,Subaru,Legacy
+248,633,49708,Chevrolet,Silverado
+964,1015,14074,GMC,Savana
+763,900,17003,Lincoln,MKZ
+381,646,35299,Mitsubishi,Mirage
+213,230,4300,Chevrolet,Traverse
+38,235,29735,Hyundai,Ioniq
+395,906,49855,Mercedes,GLS
+171,558,42687,Chevrolet,Equinox
+446,773,39020,Toyota,Tundra
+116,833,43803,BMW,M Series
+15,248,18998,Dodge,Challenger
+493,558,11833,BMW,5 Series
+0,999,127924,Hyundai,Sonata
+197,398,40062,Honda,Ridgeline
+349,740,38912,Chevrolet,Camaro
+199,562,39424,Mercedes,Maybach
+134,285,25456,Subaru,Legacy
+617,674,7038,Chrysler,Pacifica
+650,815,19267,Infinity,QX70
+18,271,51667,Ford,Focus
+11,68,10584,Chevrolet,Impala
+272,625,41194,Cadillac,XT5
+31,964,98036,Kia,Sportage
+840,953,22635,Toyota,Tundra
+140,157,1535,Chevrolet,Silverado
+87,178,15392,Lexus,LX
+215,828,50684,Lincoln,MKC
+148,501,56094,Mercedes,GLA
+177,354,25064,Lincoln,MKC
+233,498,39913,Ford,Edge
+215,540,70818,Dodge,Demon
+101,636,71539,Mercedes,Roadster
+222,939,66170,Hyundai,Tucson
+75,448,66505,Subaru,Ascent
+8,719,36669,Toyota,Sequoia
+272,573,30042,Mitsubishi,Eclipse
+258,441,18832,GMC,Sierra
+556,947,63271,Subaru,Crosstrek
+489,664,33770,Mitsubishi,Mirage
+828,887,11059,Cadillac,XT5
+293,900,100367,Lexus,LC
+568,643,15101,Mazda,Miata
+91,428,41669,Lexus,LX
+104,339,51177,Toyota,Tundra
+101,422,48453,Dodge,Grand Caravan
+374,1005,74657,Kia,Niro
+125,626,28005,BMW,3 Series
+100,129,5747,Kia,Optima
+206,693,27840,Infinity,QX30
+596,907,29543,Dodge,Demon
+79,150,7334,Ford,Explorer
+208,245,9156,Subaru,Crosstrek
+439,522,11866,Infinity,QX50
+105,516,78845,Lexus,GX
+90,827,45763,Ford,F350
+25,482,54674,Cadillac,XT5
+70,839,46104,Hyundai,Azera
+63,998,46749,Chevrolet,Silverado
+694,795,18148,Kia,Forte
+688,829,21007,Ford,F350
+117,332,21937,Mercedes,GLE
+164,215,11488,Toyota,4Runner
+249,474,37052,Mercedes,E-Class Wagon
+470,879,54008,Subaru,Crosstrek
+688,1003,25589,BMW,3 Series
+722,879,23195,Jeep,Wrangler JK
+479,552,8307,Infinity,QX60
+256,529,30996,GMC,Canyon
+45,248,14448,Mercedes,GLS
+43,178,33291,Jeep,Wrangler
+417,488,15490,Mazda,CX-9
+170,835,79037,BMW,7 Series
+375,388,918,Dodge,Demon
+285,626,23875,Subaru,BRZ
+42,961,140333,Dodge,Journey
+115,444,56611,Jeep,Grand Cherokee
+91,188,24673,Mercedes,GLC
+199,540,30128,Ford,Taurus
+131,280,8705,Mazda,CX-9
+493,946,43042,Kia,Forte
+550,657,22615,Jeep,Wrangler
+334,413,8659,Infinity,QX80
+289,396,12372,Mazda,Miata
+277,574,36566,Ford,Ranger
+366,669,16265,Hyundai,Veloster
+965,1016,6465,Hyundai,Elantra
+258,649,68016,Mitsubishi,Outlander
+828,939,6300,Ford,Taurus
+240,853,117689,Dodge,Journey
+673,884,49965,Chevrolet,Cruze
+8,255,59299,Chevrolet,Camaro
+474,499,2593,Jeep,Grand Cherokee
+271,604,60233,Ford,F150
+689,990,72664,Ford,Transit
+49,840,119431,Hyundai,Veloster
+197,992,59341,Lexus,GX
+85,310,34449,Ford,Expedition
+11,798,123567,GMC,Canyon
+584,653,6535,Ford,Taurus
+248,845,99399,Ford,Taurus
+330,365,3165,Jeep,Renegade
+99,156,7758,Chevrolet,Trax
+496,997,73418,Infinity,QX80
+237,494,37309,Toyota,4Runner
+292,363,8499,Honda,Odyssey
+248,667,39994,Hyundai,Veloster
+584,725,21664,Ford,Super Duty
+6,617,33012,Subaru,Impreza
+582,689,14401,GMC,Canyon
+107,222,25291,GMC,Acadia
+227,232,469,Ford,Super Duty
+274,617,66249,Infinity,QX80
+614,731,22395,GMC,Terrain
+380,475,8969,Chevrolet,Tahoe
+566,841,39759,Toyota,Sienna
+365,774,72338,Ford,Escape
+16,185,15041,Lincoln,MKC
+802,1019,24445,Mazda,CX-3
+495,542,8909,Toyota,RAV4
+607,950,59110,Buick,Cascada
+274,959,93913,Honda,Fit
+103,242,15548,BMW,5 Series
+308,907,92390,Jeep,Wrangler
+90,137,5741,Ford,Expedition
+708,1003,36614,Mercedes,C-Class
+99,874,56362,Mitsubishi,Outlander
+593,622,7033,BMW,Z4
+409,478,8535,Ford,Expedition
+884,919,8807,Chevrolet,Equinox
+52,933,122994,BMW,7 Series
+738,993,52018,BMW,2 Series
+101,1018,83052,Ford,Escape
+220,659,93468,BMW,2 Series
+24,1005,126753,BMW,Z4
+161,966,73776,Toyota,Prius
+311,948,64953,Lexus,ES
+817,970,29305,Cadillac,Escalade
+358,971,73878,Mercedes,S-Class
+447,756,34372,Ford,Ecosport
+473,1010,73693,Honda,Ridgeline
+235,388,30580,Dodge,Grand Caravan
+587,676,5619,Mercedes,Roadster
+169,952,118009,Ford,Expedition
+365,832,74626,Subaru,BRZ
+704,933,26849,Lexus,NX
+575,1002,34474,Honda,Odyssey
+67,1006,79831,Ford,Ecosport
+426,629,29078,Chevrolet,Express
+511,984,67659,Mitsubishi,Lancer
+48,505,34083,Chevrolet,Tahoe
+172,509,78552,BMW,4 Series
+506,953,43331,Lincoln,Continental
+506,753,28021,GMC,Sierra
+62,507,74538,Subaru,Crosstrek
+15,696,120912,Ford,F250
+570,861,51928,Hyundai,Genesis G80
+392,729,44766,Lincoln,Continental
+166,189,6186,Ford,Super Duty
+302,533,25824,Kia,Stinger
+856,947,13392,Mitsubishi,Lancer
+566,1001,74688,BMW,M Series
+276,873,60063,Ford,Super Duty
+74,89,3038,Chevrolet,Equinox
+92,755,46182,Ford,Escape
+112,409,47739,Subaru,Forester
+156,301,34492,BMW,2 Series
+259,572,26782,Dodge,Journey
+57,976,91192,Chevrolet,Impala
+349,796,80371,Buick,Regal
+137,208,16930,BMW,M Series
+302,507,40402,Dodge,Demon
+449,772,75361,Lexus,RX
+30,1009,65410,Toyota,4Runner
+617,960,32554,Toyota,Sequoia
+420,663,33196,Dodge,Charger
+732,909,33958,BMW,Z4
+167,220,8622,Mercedes,Cabriolet
+462,767,29852,Ford,F150
+442,865,61757,Chevrolet,Express
+170,817,64178,Mercedes,E-Class
+939,1018,17773,Lexus,LS
+190,691,106342,Mercedes,Roadster
+531,898,19279,Hyundai,Genesis G80
+563,838,34759,Chevrolet,Tahoe
+281,894,42952,Chevrolet,Volt
+12,841,117931,Chevrolet,Bolt
+529,684,41405,Ford,Ecosport
+548,849,49555,Hyundai,Ioniq
+187,542,28760,Cadillac,Escalade
+565,626,5978,GMC,Sierra
+319,428,14448,Jeep,Grand Cherokee
+677,942,49834,Subaru,Ascent
+115,362,43008,Hyundai,Ioniq
+82,503,76591,Lincoln,Continental
+236,355,20960,Kia,Sorento
+366,461,19387,Mitsubishi,Outlander
+150,851,90829,Lexus,GX
+487,540,5731,Mazda,CX-5
+14,977,98466,BMW,2 Series
+158,429,27982,GMC,Yukon
+309,1022,116659,Ford,Explorer
+466,965,94732,Subaru,Outback
+485,794,67957,Toyota,Land Cruiser
+349,840,30983,Jeep,Wrangler
+575,960,30638,Toyota,Camry
+96,655,98354,Toyota,Land Cruiser
+689,816,19656,Subaru,Impreza
+3,986,121150,GMC,Terrain
+423,570,31384,Mercedes,GLC
+465,934,70512,Honda,Ridgeline
+0,169,15971,Hyundai,Tucson
+482,553,12063,Jeep,Renegade
+18,973,127929,Infinity,QX60
+637,846,34720,Infinity,QX60
+285,580,64895,Toyota,RAV4
+83,246,24605,Cadillac,CTS
+31,286,27683,Lincoln,MKZ
+542,615,15629,BMW,5 Series
+729,970,25517,Lexus,ES
+382,865,87844,Lexus,ES
+87,468,88385,Ford,F350
+409,448,2832,Toyota,Sequoia
+683,820,27613,Subaru,Outback
+983,988,863,Dodge,Durango
+240,539,66135,Kia,K900
+694,753,11403,Dodge,Charger
+391,498,18254,Ford,F150
+449,684,28293,Kia,Forte
+506,941,75374,Mercedes,GLS
+484,627,37112,Kia,Stinger
+430,569,23581,Infinity,QX70
+101,354,21288,Mercedes,E-Class
+291,586,63632,Buick,Enclave
+38,191,31995,Kia,Forte
+529,996,34249,Chevrolet,Spark
+744,845,21029,Lexus,IS
+77,200,10984,Ford,Taurus
+370,647,31380,Ford,Fiesta
+390,833,84711,Honda,CR-V
+553,956,28810,Chevrolet,Volt
+58,499,33566,BMW,Z4
+194,433,22589,Cadillac,XTS
+122,725,96154,Honda,Fit
+81,130,10044,Kia,Cadenza
+465,892,47993,Ford,Mustang
+23,110,14079,Ford,Ecosport
+202,695,59892,Hyundai,Ioniq
+91,1022,118820,Chevrolet,Spark
+0,377,26147,Dodge,Ram
+61,950,118229,Chevrolet,Cruze
+418,1019,94269,Jeep,Grand Cherokee
+120,195,7659,Dodge,Charger
+102,599,77160,Mitsubishi,Eclipse
+365,572,21772,Lincoln,MKZ
+112,881,119102,Buick,Regal
+316,807,54873,BMW,4 Series
+78,205,31092,Ford,Mustang
+418,539,14801,Chevrolet,Traverse
+334,961,97015,Honda,Accord
+306,823,32852,Toyota,Corolla
+262,291,1573,Ford,Edge
+151,210,5788,Mercedes,E-Class
+148,765,38801,Honda,Odyssey
+214,377,21004,Ford,Fiesta
+312,467,16620,Kia,Stinger
+347,872,53488,Infinity,QX30
+599,764,18205,Chevrolet,Traverse
+6,695,69038,Ford,F250
+490,723,46255,Honda,Accord
+520,627,25961,Honda,Fit
+233,534,54691,Kia,Cadenza
+240,751,32981,Chevrolet,Silverado
+590,801,15898,Toyota,4Runner
+319,550,15781,Toyota,Corolla
+284,853,103962,Lincoln,MKZ
+246,499,59428,Cadillac,XTS
+411,974,104099,Lexus,ES
+305,630,25156,Chevrolet,Cruze
+820,1023,25055,Toyota,RAV4
+123,806,33232,Chrysler,Pacifica
+158,985,54729,Kia,K900
+133,196,6534,Lexus,ES
+374,839,67572,GMC,Savana
+368,433,15231,Chrysler,300
+502,603,11907,BMW,M Series
+472,783,32972,BMW,4 Series
+131,156,3087,Dodge,Grand Caravan
+603,770,34358,Lexus,LC
+453,626,18057,Chevrolet,Monte Carlo
+249,438,33626,Honda,Accord
+309,604,52270,Buick,Lacrosse
+216,235,3408,Ford,Escape
+237,428,15414,Chevrolet,Trax
+304,491,28718,Kia,Rio
+474,509,7328,Chevrolet,Malibu
+9,454,58516,Toyota,4Runner
+761,1002,50609,Buick,Envision
+144,479,43712,Toyota,Land Cruiser
+212,585,25016,Toyota,Corolla
+299,680,35664,BMW,X Series
+449,570,25503,Honda,Clarity
+602,861,35747,GMC,Terrain
+470,745,49044,Ford,Ecosport
+858,975,11694,Hyundai,Elantra
+129,258,22725,Subaru,BRZ
+373,610,42754,Mercedes,S-Class
+210,481,29393,Hyundai,Azera
+54,273,43028,Cadillac,Escalade
+669,766,9426,Lincoln,MKZ
+550,947,41606,Honda,CR-V
+912,987,13801,Chevrolet,Malibu
+166,453,48370,Chevrolet,Express
+283,996,97603,Cadillac,Escalade
+52,983,51286,Honda,Civic
+584,809,53275,Mercedes,GLA
+557,916,54773,Mercedes,GLC
+582,911,32310,Mitsubishi,Lancer
+473,722,39152,Ford,F250
+579,1022,89919,Subaru,BRZ
+397,888,41435,Honda,Fit
+671,950,24823,Chevrolet,Impala
+715,740,4495,GMC,Savana
+736,1013,38087,Lincoln,MKZ
+108,325,37638,Ford,F250
+273,716,32288,Honda,HR-V
+539,624,13443,Kia,Sedona
+245,340,15130,Mercedes,S-Class
+341,742,60305,Infinity,Q50
+134,141,559,Mercedes,E-Class
+364,833,23143,BMW,3 Series
+67,960,67989,BMW,M Series
+302,1023,120998,Kia,Soul
+493,864,47392,Infinity,QX60
+887,1020,20272,Honda,Accord
+718,779,6333,Mercedes,GLA
+162,953,66027,Subaru,Crosstrek
+673,968,40654,Honda,HR-V
+260,353,17312,Mazda,CX-9
+271,886,50348,Toyota,Tacoma
+475,798,65839,Lincoln,Continental
+114,535,86290,Buick,Regal
+173,240,8166,Honda,Fit
+324,701,40604,Subaru,Legacy
+620,921,57258,Subaru,Ascent
+747,790,9346,Ford,Mustang
+133,960,123756,Dodge,Charger
+439,792,35936,Mitsubishi,Mirage
+748,835,22243,GMC,Savana
+226,379,34685,Toyota,RAV4
+351,624,29577,Kia,Sedona
+160,323,25655,Kia,Cadenza
+143,340,34898,Mercedes,E-Class
+951,992,10246,Mazda,Miata
+387,860,74571,Kia,Optima
+104,397,38918,Mazda,Miata
+894,943,13584,Hyundai,Ioniq
+663,846,33497,Ford,Mustang
+369,920,31416,Lexus,GS
+337,618,29094,Chrysler,Pacifica
+198,647,51183,Chrysler,300
+508,631,12602,Chrysler,Pacifica
+135,342,48567,Mercedes,C-Class
+567,928,83561,BMW,3 Series
+135,936,71207,BMW,7 Series
+831,928,9703,Lexus,NX
+662,697,7294,Mercedes,C-Class
+468,697,53900,Mercedes,GLE
+3,542,82606,Chevrolet,Cruze
+525,946,61875,Subaru,WRX
+748,865,14452,Subaru,Outback
+56,977,90214,Toyota,Tundra
+452,527,16980,Mercedes,Maybach
+442,925,78986,Mercedes,GLA
+58,327,61922,Ford,Taurus
+135,724,104482,Subaru,Legacy
+659,726,12508,Honda,Civic
+34,615,99466,Buick,Enclave
+151,576,46816,GMC,Terrain
+305,646,59119,BMW,M Series
+943,978,7190,Infinity,QX60
+87,188,20741,Ford,Ecosport
+133,406,45193,Mercedes,C-Class
+783,1018,23924,Cadillac,XT5
+428,771,55969,Kia,Cadenza
+57,952,113372,Mercedes,GLE
+312,801,56953,Infinity,QX30
+586,711,22184,Ford,F250
+303,974,85720,Lexus,LC
+274,849,93466,Subaru,Impreza
+57,248,37755,Mercedes,GLS
+332,429,18204,GMC,Acadia
+262,763,60551,Chevrolet,Express
+655,968,64170,Lexus,RX
+215,294,17090,Dodge,Ram
+281,290,1999,Subaru,Ascent
+679,842,35107,Honda,Clarity
+139,690,44707,Mazda,Miata
+290,639,46035,Lexus,LX
+257,594,65882,Chevrolet,Traverse
+875,900,3186,Mazda,CX-3
+361,938,104439,Mazda,Miata
+356,971,81331,Buick,Enclave
+416,427,2287,Kia,Sportage
+7,968,106603,Ford,Ranger
+512,519,1800,Chevrolet,Malibu
+535,912,38451,Honda,Fit
+226,523,26409,Hyundai,Tucson
+38,831,49567,Toyota,Tundra
+211,702,92202,BMW,2 Series
+43,400,78999,Chevrolet,Malibu
+74,909,61820,Dodge,Demon
+744,983,41167,Chevrolet,Traverse
+157,378,41008,Hyundai,Sonata
+929,964,7431,Mazda,Miata
+252,319,18212,Buick,Envision
+508,963,35746,Chevrolet,Impala
+39,212,23125,Kia,Optima
+238,461,24642,Ford,Flex
+163,836,50155,GMC,Acadia
+577,744,18560,Mercedes,C-Class
+19,144,16902,Ford,Explorer
+385,472,21660,Mercedes,Roadster
+595,992,75531,Hyundai,Santa Fe
+856,879,2639,Chevrolet,Tahoe
+93,468,71070,BMW,Z4
+506,843,54620,Chevrolet,Bolt
+576,983,32612,Mercedes,GLS
+280,543,23840,Kia,Forte
+13,594,53687,Chevrolet,Bolt
+236,333,20792,Subaru,Outback
+237,258,4033,Subaru,Crosstrek
+699,970,56199,BMW,X Series
+401,516,24857,Infinity,QX70
+776,883,26063,Lexus,GS
+372,945,68919,Infinity,QX60
+706,859,17555,Buick,Cascada
+327,386,14326,Mercedes,Roadster
+4,307,27108,Buick,Enclave
+1,756,122504,Dodge,Durango
+284,333,10618,Honda,Odyssey
+610,765,14041,Mitsubishi,Outlander
+391,400,1846,Kia,Cadenza
+313,642,32586,Toyota,RAV4
+356,991,74042,Buick,Cascada
+692,749,11360,Chevrolet,Tahoe
+36,961,87241,Subaru,Legacy
+244,733,53976,Infinity,QX60
+172,233,15092,Chevrolet,Cruze
+303,514,22333,Ford,Edge
+108,989,131026,Subaru,Outback
+35,592,68126,Toyota,Land Cruiser
+317,420,19564,Hyundai,Genesis G80
+157,700,92576,Mercedes,Roadster
+302,413,13019,Kia,Soul
+6,93,11996,Jeep,Grand Cherokee
+654,679,1754,GMC,Sierra
+650,915,25609,Hyundai,Sonata
+659,888,39662,Kia,Sportage
+788,877,23497,BMW,3 Series
+9,64,8404,Infinity,QX70
+197,588,84466,Mercedes,Roadster
+573,812,26600,Lexus,LS
+124,719,64587,Chevrolet,Monte Carlo
+165,842,91095,Chevrolet,Spark
+299,690,73394,Toyota,Camry
+199,1018,115007,Hyundai,Sonata
+216,601,49708,Ford,Fiesta
+710,755,10695,Mercedes,C-Class
+168,825,103527,Ford,Expedition
+540,547,1410,Honda,Ridgeline
+158,241,15052,Subaru,Legacy
+810,883,11616,Buick,Encore
+351,858,70957,Mazda,CX-3
+405,666,61717,Kia,Sedona
+443,778,68930,Chevrolet,Silverado
+46,169,10984,Lexus,NX
+625,950,25976,BMW,3 Series
+41,120,17849,Mazda,Miata
+327,866,56395,Chevrolet,Malibu
+22,87,15420,Dodge,Challenger
+291,440,25422,Honda,Ridgeline
+397,480,12264,Hyundai,Ioniq
+211,952,90796,BMW,2 Series
+505,736,50827,Honda,Civic
+496,705,28714,Jeep,Compass
+539,982,47216,Chevrolet,Camaro
+224,947,78584,BMW,3 Series
+372,821,84486,GMC,Savana
+794,847,8106,BMW,M Series
+224,383,11000,Kia,Sportage
+14,593,76417,Ford,Transit
+211,310,11777,Ford,Flex
+221,576,43433,Infinity,QX30
+207,738,69225,GMC,Canyon
+244,323,17394,Subaru,Ascent
+166,411,32786,Toyota,Camry
+176,933,40085,Mercedes,E-Class Wagon
+200,733,99755,Kia,Rio
+102,965,128332,Cadillac,XTS
+531,890,58918,Mitsubishi,Mirage
+948,1003,6370,Hyundai,Azera
+78,721,67933,Ford,Flex
+279,492,50575,Ford,Edge
+148,907,68313,GMC,Canyon
+306,491,18344,Cadillac,CTS
+612,931,34472,Toyota,Corolla
+79,890,72498,Ford,F150
+109,730,75290,Ford,F350
+903,918,1296,Mercedes,E-Class Wagon
+220,439,47527,GMC,Sierra
+305,316,723,Lexus,IS
+75,552,30004,Toyota,Tundra
+636,729,20153,BMW,3 Series
+641,734,11985,Honda,Accord
+108,773,39070,Toyota,Corolla
+657,696,6466,Kia,Stinger
+250,255,494,Infinity,Q70
+618,1011,71457,Chevrolet,Tahoe
+19,28,1192,Kia,Optima
+505,690,21373,Chevrolet,Monte Carlo
+319,740,82277,Mitsubishi,Mirage
+220,373,37658,Chevrolet,Spark
+131,478,28533,Mazda,Miata
+55,178,19192,Lexus,LX
+380,877,99744,BMW,X Series
+723,842,30712,Chevrolet,Bolt
+491,782,50181,GMC,Acadia
+409,738,66000,Kia,Sedona
+226,747,96727,Kia,Rio
+576,893,56266,BMW,X Series
+199,460,41221,Hyundai,Santa Fe
+136,423,62683,Jeep,Compass
+509,1012,28839,Jeep,Renegade
+73,550,51593,Subaru,Legacy
+60,211,29792,Mercedes,GLA
+16,225,17266,Ford,Fiesta
+857,986,32999,Toyota,Highlander
+496,803,33406,Chevrolet,Trax
+91,936,40205,Toyota,Land Cruiser
+2,973,46978,Toyota,Sequoia
+697,888,25805,Chevrolet,Cruze
+215,822,88409,Toyota,Avalon
+121,682,117311,Hyundai,Accent
+59,768,70924,Kia,Cadenza
+3,522,62772,GMC,Sierra
+862,1011,34817,Chevrolet,Tahoe
+736,997,60806,Subaru,Legacy
+113,676,44498,Lexus,RC
+351,822,28652,Ford,F250
+770,789,2523,Infinity,Q70
+769,866,20607,Kia,Sportage
+147,446,32430,Jeep,Wrangler
+467,846,80305,BMW,3 Series
+145,302,8988,Mercedes,Maybach
+58,815,115481,Ford,Super Duty
+843,894,6565,Buick,Regal
+552,941,49158,BMW,5 Series
+433,554,9222,Honda,Odyssey
+160,969,39155,Dodge,Durango
+356,469,28186,BMW,X Series
+276,989,54844,Toyota,4Runner
+449,702,41467,Chevrolet,Tahoe
+333,954,84377,Ford,Flex
+373,922,41389,Hyundai,Santa Fe
+660,829,28530,Lexus,RC
+734,1023,36240,Hyundai,Kona
+591,988,71050,Mercedes,S-Class
+96,519,41955,Toyota,Sequoia
+624,943,44168,BMW,7 Series
+309,710,82556,Mercedes,E-Class
+700,847,10780,Mercedes,GLA
+631,952,61446,Chevrolet,Equinox
+237,364,10722,Chevrolet,Silverado
+341,482,27966,Cadillac,CT6
+615,856,28282,Ford,Escape
+39,594,87393,BMW,6 Series
+580,589,1954,Subaru,Forester
+359,706,68882,Chevrolet,Tahoe
+336,981,105606,Cadillac,CTS
+507,1004,96356,Ford,Ecosport
+504,621,22946,Hyundai,Kona
+188,469,57460,Mercedes,Maybach
+781,986,41324,Infinity,QX70
+889,932,3495,Chevrolet,Silverado
+62,623,97759,Toyota,Sienna
+384,689,51656,Toyota,Corolla
+175,216,8920,GMC,Acadia
+231,666,20557,Chevrolet,Cruze
+602,1017,83058,Mercedes,S-Class
+100,427,35998,Chevrolet,Malibu
+712,769,6041,Lincoln,Navigator
+277,1020,126410,BMW,3 Series
+1,964,100507,GMC,Acadia
+242,879,44765,Honda,Accord
+153,330,35252,Cadillac,XT5
+586,895,49852,Lincoln,MKC
+164,327,34057,Lexus,RC
+28,79,12483,Cadillac,XTS
+281,336,10009,Toyota,Sienna
+162,297,13746,Chevrolet,Cruze
+239,984,45504,Mercedes,E-Class Wagon
+194,221,5169,Infinity,QX60
+38,73,4404,Ford,Ranger
+674,993,23161,GMC,Savana
+221,402,16666,Ford,Ecosport
+739,752,3617,Chevrolet,Impala
+569,822,16188,BMW,Z4
+236,815,34056,Dodge,Grand Caravan
+177,884,93513,Mercedes,C-Class
+218,855,43010,Hyundai,Ioniq
+176,595,84986,Kia,Forte
+915,1000,19391,Cadillac,CT6
+136,597,100025,Chrysler,Pacifica
+120,537,38855,Ford,Ranger
+484,583,11872,BMW,5 Series
+151,382,44269,Lexus,GS
+381,956,54177,Lexus,LC
+165,306,30460,Toyota,Tacoma
+830,977,25380,Dodge,Journey
+243,890,100471,Jeep,Wrangler
+31,38,796,Toyota,4Runner
+220,369,16856,Buick,Regal
+735,870,12358,Subaru,WRX
+520,869,50089,Ford,Explorer
+103,798,113410,Mercedes,Roadster
+473,790,40994,Lexus,LX
+390,921,86925,Kia,Sedona
+387,1018,43222,Kia,K900
+428,747,48746,GMC,Savana
+104,429,21601,Buick,Encore
+248,539,62663,Hyundai,Tucson
+304,571,52476,Chevrolet,Volt
+881,994,24663,Mercedes,C-Class
+210,905,76678,Chevrolet,Bolt
+15,906,88592,Toyota,Camry
+958,985,6608,Ford,Escape
+222,845,71092,Chevrolet,Monte Carlo
+108,895,77532,Cadillac,CT6
+108,411,63769,Jeep,Renegade
+253,630,55369,Honda,CR-V
+220,619,52367,Ford,Explorer
+85,704,48806,GMC,Sierra
+420,857,62220,Hyundai,Genesis G80
+166,289,12834,Dodge,Ram
+313,626,20153,Chrysler,Pacifica
+402,719,36707,Mercedes,C-Class
+168,297,27923,Mitsubishi,Mirage
+313,688,54835,Hyundai,Azera
+162,523,55608,Buick,Enclave
+154,753,86033,Kia,K900
+371,390,3050,Jeep,Grand Cherokee
+249,690,38065,Subaru,WRX
+36,613,97808,Buick,Envision
+73,78,1108,Mitsubishi,Lancer
+104,709,85256,GMC,Sierra
+927,958,3542,Buick,Enclave
+208,561,40318,Lexus,RC
+71,536,65415,Ford,Expedition
+318,807,77427,Buick,Cascada
+837,890,10429,Jeep,Renegade
+75,260,41063,BMW,7 Series
+71,588,66863,Subaru,Impreza
+549,962,18794,Infinity,QX30
+553,788,54922,Chevrolet,Impala
+703,852,9672,BMW,X Series
+357,482,25470,Honda,Clarity
+365,720,27586,Hyundai,Tucson
+185,870,107590,Cadillac,XT5
+454,889,64410,Subaru,Ascent
+472,647,32970,Chevrolet,Equinox
+254,947,118294,Dodge,Journey
+361,760,28272,Kia,Sportage
+479,982,68683,Hyundai,Veloster
+764,977,32635,Lexus,IS
+392,1005,53690,Cadillac,CTS
+26,55,4375,Hyundai,Accent
+7,288,57945,Subaru,Crosstrek
+388,437,8609,Subaru,WRX
+338,475,25568,Kia,Sportage
+195,208,1744,Chevrolet,Equinox
+247,360,13773,Hyundai,Elantra
+373,548,41292,Chevrolet,Trax
+546,567,5654,Chevrolet,Spark
+729,846,25925,Chevrolet,Cruze
+610,723,26265,Toyota,Camry
+159,176,2428,Chrysler,300
+164,293,27318,Mazda,CX-9
+465,660,33699,Kia,Forte
+384,385,244,Ford,Edge
+448,945,31617,Infinity,QX30
+627,640,1564,Honda,HR-V
+423,444,5134,Chevrolet,Spark
+525,994,96185,Hyundai,Tucson
+491,518,5596,Subaru,Forester
+258,751,32567,Lexus,RC
+319,1018,54331,Chevrolet,Traverse
+225,606,30082,Buick,Lacrosse
+449,954,82183,Chevrolet,Volt
+698,773,7587,Ford,Focus
+115,338,41731,Cadillac,XT5
+98,167,6401,Ford,Focus
+567,946,46639,Dodge,Demon
+197,860,44389,Toyota,Corolla
+102,721,38872,Toyota,Sienna
+442,583,18119,Infinity,QX50
+426,1013,71189,Mercedes,GLC
+182,885,114037,Honda,Ridgeline
+270,475,13836,Ford,F350
+8,59,11140,Subaru,WRX
+38,733,119379,Chevrolet,Tahoe
+18,699,43183,Hyundai,Azera
+351,908,96512,Toyota,Land Cruiser
+446,791,49344,Dodge,Demon
+237,584,42943,Hyundai,Kona
+385,432,9874,Ford,Focus
+738,773,7190,Honda,HR-V
+892,965,8589,GMC,Terrain
+21,44,3958,Ford,Edge
+51,268,35116,Ford,F250
+494,755,30062,Cadillac,Escalade
+16,163,8460,Mitsubishi,Outlander
+845,976,11649,Mazda,CX-9
+143,800,29452,Honda,Ridgeline
+141,172,5557,Mercedes,C-Class
+464,803,64216,Subaru,Impreza
+123,926,71271,Infinity,QX70
+372,911,92932,Lincoln,Continental
+320,733,85726,Mercedes,Cabriolet
+136,533,38406,Dodge,Challenger
+497,948,52050,Toyota,Camry
+137,422,54957,Mitsubishi,Mirage
+419,794,64944,Hyundai,Accent
+649,652,800,Chevrolet,Impala
+78,943,71451,Chevrolet,Traverse
+207,768,101832,Ford,Expedition
+369,588,48505,Chevrolet,Silverado
+424,943,85633,Jeep,Compass
+5,48,5936,Honda,Ridgeline
+368,919,27791,Ford,Super Duty
+404,449,6734,GMC,Canyon
+219,304,23790,Honda,CR-V
+787,932,24253,Infinity,QX80
+422,769,62253,Cadillac,Escalade
+973,1012,3903,Infinity,QX70
+264,907,59111,Kia,Sorento
+48,953,87885,Mercedes,GLA
+440,795,43727,Kia,Optima
+823,1022,43659,Cadillac,Escalade
+101,850,69361,Subaru,BRZ
+295,878,91332,Ford,Expedition
+887,928,8036,Toyota,Corolla
+58,1011,139105,Mercedes,C-Class
+543,622,21115,Infinity,QX80
+29,486,70295,Hyundai,Genesis G80
+200,741,48965,Cadillac,Escalade
+893,1010,14011,Hyundai,Accent
+728,757,6690,Toyota,RAV4
+85,308,16693,Jeep,Wrangler
+168,441,49688,Ford,Ranger
+88,681,93528,Honda,Fit
+321,796,37943,Hyundai,Azera
+239,296,11748,Lincoln,MKZ
+424,487,13617,Cadillac,XTS
+689,852,24755,Honda,Accord
+350,795,52943,Chrysler,Pacifica
+595,808,32254,Lexus,RX
+44,869,115284,Chevrolet,Spark
+543,680,8182,Chevrolet,Express
+140,381,53161,Toyota,RAV4
+117,738,39809,Honda,Odyssey
+412,433,1788,Subaru,Legacy
+130,523,76856,Mercedes,E-Class
+181,418,29550,Kia,Sportage
+253,334,15093,BMW,7 Series
+129,300,23509,Honda,CR-V
+222,897,47968,Cadillac,XTS
+540,791,41846,Infinity,QX60
+132,383,50875,Hyundai,Veloster
+54,753,75510,Chevrolet,Volt
+127,764,94358,Infinity,QX80
+736,871,18033,BMW,4 Series
+98,313,20590,Hyundai,Ioniq
+232,873,118021,Chevrolet,Traverse
+355,874,87570,Cadillac,CTS
+39,636,46104,Toyota,Tacoma
+312,813,73040,GMC,Savana
+93,846,53804,Mercedes,C-Class
+188,619,72484,Chevrolet,Volt
+528,961,35512,Cadillac,CT6
+493,756,20631,Chevrolet,Express
+328,449,18672,Ford,F250
+588,729,15887,Dodge,Challenger
+56,979,122192,Kia,Sportage
+12,167,32666,Dodge,Charger
+688,773,16132,Ford,Fiesta
+124,615,92575,Hyundai,Genesis G80
+322,931,60763,Infinity,QX60
+380,781,69657,Mercedes,Cabriolet
+24,233,17642,Chevrolet,Trax
+4,901,49909,Lexus,ES
+691,852,20620,Jeep,Wrangler
+538,813,64518,Subaru,Legacy
+31,140,22188,Honda,HR-V
+439,638,50666,Chevrolet,Silverado
+1,594,105746,Ford,Escape
+84,581,88076,Mercedes,S-Class
+876,1021,27890,Infinity,QX80
+869,914,10299,Hyundai,Elantra
+358,607,52276,Mercedes,C-Class
+161,252,7914,Honda,Clarity
+249,500,51756,Ford,Fiesta
+157,934,54490,Buick,Encore
+199,952,111417,Lincoln,Navigator
+842,1001,35051,Infinity,Q50
+5,664,102352,Dodge,Journey
+579,764,40221,Lexus,LC
+912,917,509,Mitsubishi,Eclipse
+100,107,1068,Infinity,QX50
+455,702,52783,Ford,Fiesta
+641,762,19127,Lexus,NX
+493,890,60489,Toyota,Tacoma
+20,237,16685,Toyota,Prius
+252,815,115121,BMW,7 Series
+333,712,39535,Lexus,IS
+275,502,25230,Ford,Focus
+73,892,34896,Mazda,CX-5
+5,650,56559,BMW,5 Series
+67,628,102647,Ford,Super Duty
+672,1021,36770,Subaru,Ascent
+50,1013,130097,Chevrolet,Colorado
+956,991,7087,Mazda,CX-3
+731,988,56413,Chevrolet,Equinox
+153,536,57916,Dodge,Grand Caravan
+310,557,31930,Chevrolet,Impala
+468,477,1291,Subaru,Crosstrek
+140,707,107427,Hyundai,Santa Fe
+256,541,18892,Subaru,WRX
+124,605,47476,Mercedes,S-Class
+811,926,21926,Kia,Sedona
+567,1020,65621,BMW,2 Series
+122,693,39122,Mercedes,Cabriolet
+371,846,79169,Toyota,Tacoma
+178,213,4232,BMW,M Series
+765,828,6656,Mercedes,C-Class
+80,771,83330,Ford,Fiesta
+804,883,17166,Ford,GT
+250,909,44248,Lincoln,MKZ
+220,897,58464,Ford,Explorer
+188,385,18518,Ford,Taurus
+251,462,21955,Cadillac,XTS
+583,778,16232,Kia,Stinger
+122,493,86581,BMW,7 Series
+390,693,55766,Kia,Sedona
+281,480,25153,Chevrolet,Express
+280,915,94633,Toyota,RAV4
+478,775,41391,Toyota,Camry
+589,952,65108,Toyota,Prius
+323,340,1821,Cadillac,CT6
+734,919,28441,Cadillac,CTS
+327,626,63837,Hyundai,Tucson
+169,650,28339,Ford,Flex
+316,973,74522,Hyundai,Ioniq
+91,926,45994,Ford,Taurus
+669,842,39755,Infinity,QX80
+585,988,46289,Chevrolet,Spark
+37,194,33197,Chevrolet,Camaro
+352,695,49116,Lincoln,Navigator
+332,727,25187,Toyota,Highlander
+573,654,9492,BMW,Z4
+863,950,4832,Ford,Focus
+645,846,19397,Lincoln,MKZ
+60,591,96365,Mercedes,C-Class
+619,926,55850,Ford,Flex
+911,936,3853,Toyota,4Runner
+193,524,76314,Subaru,Legacy
+377,888,55991,Honda,CR-V
+463,1000,64580,Kia,Sorento
+18,601,88830,Lexus,NX
+143,1022,127441,BMW,2 Series
+78,143,14035,Kia,Sorento
+129,398,50005,Hyundai,Veloster
+431,986,31559,Jeep,Wrangler
+704,813,19195,Mercedes,Roadster
+376,635,44797,Ford,Transit
+168,943,48655,Honda,Pilot
+243,460,14939,GMC,Sierra
+276,663,63402,Honda,Ridgeline
+171,326,14614,Lincoln,MKZ
+233,672,53115,Mitsubishi,Eclipse
+91,966,63648,Ford,Explorer
+45,644,112732,BMW,3 Series
+235,324,18049,Ford,F150
+561,812,29953,Chevrolet,Cruze
+833,996,28056,Dodge,Journey
+44,399,64563,Chevrolet,Traverse
+641,954,40305,BMW,4 Series
+265,938,86303,Buick,Encore
+509,596,13246,Toyota,Highlander
+35,984,90138,Ford,Ranger
+342,861,75171,Buick,Encore
+174,673,59255,Mazda,Miata
+452,775,22309,Mercedes,Roadster
+863,952,17623,BMW,5 Series
+897,910,2339,Mercedes,GLE
+269,352,16963,Mercedes,Maybach
+95,476,26361,Hyundai,Santa Fe
+77,918,117965,Toyota,4Runner
+263,290,3411,Infinity,QX30
+206,353,35750,Honda,Odyssey
+311,430,22754,Toyota,RAV4
+546,945,31806,BMW,4 Series
+84,527,64922,Honda,Civic
+112,249,15213,GMC,Terrain
+476,889,44512,BMW,M Series
+266,805,93329,Toyota,Camry
+525,726,44412,Lincoln,MKC
+461,602,29935,Ford,Explorer
+262,293,7694,BMW,6 Series
+214,523,25189,Subaru,WRX
+737,968,53901,Hyundai,Tucson
+488,593,7771,Toyota,Camry
+397,658,55341,Ford,F350
+9,198,19730,BMW,5 Series
+438,921,43553,Chevrolet,Malibu
+607,798,41912,Ford,GT
+242,269,5942,Chevrolet,Impala
+641,692,5073,Dodge,Durango
+160,595,25353,Ford,GT
+720,1017,38852,GMC,Terrain
+173,934,58344,GMC,Sierra
+272,889,90966,Kia,Optima
+244,337,18732,Infinity,QX70
+757,938,35476,Mercedes,E-Class
+158,1015,100175,Infinity,Q50
+867,896,2545,Chrysler,Pacifica
+658,1001,29698,Jeep,Wrangler
+646,967,30588,Mercedes,GLA
+787,1012,22232,Hyundai,Ioniq
+154,789,46002,Infinity,QX80
+738,889,33149,Buick,Enclave
+349,370,2723,Toyota,Avalon
+80,487,80225,Chevrolet,Colorado
+561,798,39610,Chrysler,Pacifica
+141,424,30487,Chevrolet,Impala
+535,674,19306,BMW,M Series
+58,901,55553,Ford,Transit
+184,505,58740,Cadillac,CTS
+104,725,94329,Mitsubishi,Eclipse
+3,692,101957,Lexus,ES
+867,1014,36705,Mercedes,GLS
+71,338,48993,Kia,Cadenza
+84,645,89205,Kia,Stinger
+219,332,10997,Ford,Edge
+1,230,25018,Honda,Ridgeline
+112,713,59874,Subaru,Legacy
+98,673,48387,Ford,Ranger
+324,899,95947,Ford,Explorer
+372,675,43115,Mazda,CX-5
+372,803,82352,Ford,Taurus
+268,749,80231,Lincoln,Navigator
+145,998,64207,Mercedes,Roadster
+622,779,40156,GMC,Sierra
+484,809,42928,Kia,K900
+108,683,49628,Mercedes,E-Class Wagon
+515,998,66437,Dodge,Charger
+197,372,15525,Toyota,Camry
+367,608,39552,Kia,K900
+80,277,14957,Kia,Sorento
+213,536,46250,Infinity,QX30
+195,428,17139,Lexus,LC
+836,953,15003,BMW,2 Series
+584,807,34379,Mazda,CX-9
+193,266,8167,Jeep,Renegade
+232,535,56282,Chevrolet,Bolt
+630,643,3152,Toyota,Sienna
+300,875,61208,Subaru,Legacy
+331,402,7814,Mercedes,GLS
+33,270,28083,BMW,4 Series
+351,774,39941,Chrysler,Pacifica
+433,646,30154,Chevrolet,Equinox
+36,461,82518,Toyota,Tacoma
+424,875,96010,Kia,Forte
+243,570,49737,Kia,Sportage
+223,496,41880,Hyundai,Azera
+149,460,32972,Toyota,Sienna
+521,970,83084,GMC,Canyon
+604,881,28984,Lincoln,MKZ
+115,384,41126,Infinity,QX70
+436,509,13447,Kia,Rio
+561,884,38633,Toyota,Sequoia
+81,594,99201,Jeep,Compass
+274,891,58632,Mitsubishi,Eclipse
+39,736,122304,Jeep,Wrangler
+236,271,7018,Subaru,Impreza
+48,663,64118,Ford,Fiesta
+398,907,32895,Lexus,GS
+683,990,31579,Honda,CR-V
+242,817,64516,Chevrolet,Express
+783,982,45815,Toyota,Prius
+377,822,78022,Ford,Expedition
+24,569,93193,Chevrolet,Express
+248,581,42944,Toyota,Prius
+59,588,32566,Subaru,Legacy
+667,914,21504,Kia,K900
+427,438,1084,Lexus,ES
+615,914,44431,Subaru,Forester
+578,669,12087,Mazda,CX-5
+812,815,600,Cadillac,XTS
+376,995,81200,Infinity,Q70
+967,996,6433,Ford,Super Duty
+451,890,43113,Toyota,Land Cruiser
+350,749,73891,Kia,Optima
+835,926,21827,Kia,K900
+336,803,69579,Ford,Ranger
+552,707,25789,Toyota,Land Cruiser
+264,573,62447,Buick,Lacrosse
+202,445,60824,Subaru,Legacy
+250,975,89455,Hyundai,Santa Fe
+32,371,60538,Honda,Fit
+342,857,75172,Lincoln,Navigator
+575,700,13029,Lexus,LX
+130,651,34185,Dodge,Durango
+274,549,40711,GMC,Yukon
+112,1023,73842,Subaru,Ascent
+52,147,18029,Lincoln,MKC
+129,420,48683,Ford,Edge
+295,886,118568,Chevrolet,Bolt
+368,1015,112864,Chevrolet,Corvette
+20,151,24892,Ford,Fiesta
+147,546,39837,Mitsubishi,Eclipse
+1,618,57770,Jeep,Renegade
+33,208,26088,Ford,Ecosport
+609,852,37908,Jeep,Wrangler
+390,959,116700,Ford,Explorer
+842,929,7831,BMW,6 Series
+278,333,5888,Dodge,Challenger
+677,846,16901,Chrysler,Pacifica
+73,132,13008,Cadillac,Escalade
+443,912,72320,Dodge,Charger
+179,988,95439,Honda,Pilot
+909,996,13163,Chevrolet,Colorado
+73,818,71573,Honda,CR-V
+229,374,12127,Subaru,Ascent
+711,880,16591,Buick,Cascada
+446,503,13854,Kia,Forte
+450,611,19285,Dodge,Ram
+782,849,18730,Chevrolet,Colorado
+403,606,43343,GMC,Sierra
+553,794,37850,Kia,Soul
+469,814,37869,Kia,Forte
+144,735,39523,Infinity,QX70
+507,632,9977,Subaru,Forester
+88,379,39445,Chevrolet,Tahoe
+168,597,94959,Hyundai,Tucson
+134,677,94571,Mazda,CX-5
+350,617,51083,Toyota,Camry
+218,535,23311,Mercedes,C-Class
+2,215,31109,BMW,6 Series
+274,477,26701,Chevrolet,Monte Carlo
+453,830,39373,BMW,M Series
+129,462,57723,Kia,Sorento
+328,345,3069,Buick,Regal
+33,672,102433,Cadillac,XTS
+530,881,22977,Cadillac,CTS
+500,641,31773,Chevrolet,Trax
+121,162,4380,Kia,Cadenza
+841,922,6691,Ford,Ranger
+94,771,98800,Chevrolet,Tahoe
+377,796,45326,Subaru,Outback
+8,85,10301,Toyota,Prius
+198,947,92640,BMW,X Series
+293,526,36550,Kia,Forte
+253,384,13979,Mercedes,GLA
+169,598,40697,Lexus,IS
+1016,1023,1772,Subaru,Ascent
+327,930,61692,Jeep,Compass
+62,359,64245,Hyundai,Sonata
+48,147,17148,Honda,Pilot
+831,874,2905,Ford,Super Duty
+486,777,43440,Ford,Flex
+233,950,67102,Chevrolet,Traverse
+292,629,37446,Lincoln,MKZ
+137,464,59904,Kia,K900
+705,1006,60339,Mitsubishi,Eclipse
+84,147,11785,Subaru,Crosstrek
+23,778,112494,Buick,Enclave
+220,875,36087,Chrysler,300
+762,791,3717,Hyundai,Azera
+461,860,48833,Kia,Sedona
+319,436,25594,Ford,Expedition
+6,17,2331,Mercedes,GLA
+431,604,15681,Honda,Ridgeline
+165,622,31243,Chevrolet,Express
+210,583,64980,Mazda,CX-5
+857,964,25454,Infinity,QX60
+342,639,27933,Chevrolet,Monte Carlo
+463,564,15075,Ford,Taurus
+248,547,64859,Honda,CR-V
+272,477,27857,Chevrolet,Equinox
+308,1011,120962,Subaru,WRX
+365,628,25674,Chevrolet,Spark
+3,48,12632,Dodge,Demon
+14,753,110056,Jeep,Wrangler
+123,320,43445,Kia,Soul
+508,663,28511,Kia,Optima
+302,323,4178,Subaru,Legacy
+323,520,12998,Toyota,Highlander
+65,652,65745,Subaru,Forester
+451,744,66537,BMW,5 Series
+529,878,74409,Honda,HR-V
+47,972,66446,Chevrolet,Malibu
+736,915,15519,Buick,Encore
+106,883,107533,BMW,7 Series
+284,925,112296,Mazda,CX-5
+589,852,49284,Hyundai,Elantra
+389,656,22059,Mazda,CX-5
+630,691,7931,Buick,Cascada
+66,859,71920,Jeep,Grand Cherokee
+271,544,17273,Ford,Transit
+442,637,34758,Cadillac,XT5
+189,260,18986,Cadillac,CTS
+782,1007,53275,GMC,Sierra
+328,699,84151,Hyundai,Santa Fe
+473,524,7908,Honda,Civic
+138,171,4708,Jeep,Compass
+46,333,54539,GMC,Acadia
+105,392,52071,BMW,4 Series
+203,944,47290,Ford,Mustang
+370,937,75855,Ford,F350
+423,856,53950,GMC,Acadia
+137,550,33302,Kia,Soul
+420,787,29521,Mercedes,E-Class Wagon
+450,699,50745,Kia,Forte
+89,512,51352,Ford,F350
+273,628,28760,Kia,Forte
+21,514,110052,Kia,Sorento
+74,877,40517,BMW,4 Series
+61,962,31791,Chrysler,300
+451,560,15480,Kia,Stinger
+485,786,60083,Hyundai,Kona
+274,811,45959,Hyundai,Genesis G80
+83,398,32786,Chevrolet,Cruze
+316,597,57460,Kia,Cadenza
+581,716,16898,Buick,Regal
+248,299,10444,Kia,Optima
+64,871,43033,Lexus,LS
+313,746,28341,Chevrolet,Spark
+633,982,46325,Mercedes,C-Class
+510,561,10891,Infinity,QX60
+259,318,11461,Chevrolet,Volt
+333,856,54133,Kia,Sorento
+331,972,87195,Toyota,Tacoma
+740,775,6984,Infinity,QX50
+12,447,45224,Kia,Forte
+74,923,80522,Lincoln,MKC
+76,133,4212,Ford,F250
+915,1002,11913,Buick,Envision
+588,949,44606,Mercedes,Maybach
+167,702,91697,Mercedes,GLA
+282,599,19024,Mitsubishi,Lancer
+739,798,8997,Chevrolet,Colorado
+375,398,5731,Subaru,Outback
+110,893,132518,Mazda,CX-5
+459,880,65888,Chevrolet,Impala
+47,246,21021,GMC,Savana
+519,932,40885,Toyota,Tundra
+690,999,21516,Chevrolet,Camaro
+206,659,54685,Subaru,Legacy
+302,591,36240,Toyota,Land Cruiser
+218,423,33391,GMC,Terrain
+131,834,62328,Ford,Ranger
+475,914,48631,BMW,5 Series
+176,1019,72417,Cadillac,ATS
+2,117,19213,Toyota,Camry
+221,926,61950,Cadillac,CT6
+580,633,9500,Mercedes,S-Class
+177,986,75862,Lincoln,Continental
+303,940,98308,BMW,X Series
+328,435,24744,Lexus,RX
+324,931,86273,Dodge,Challenger
+610,819,30966,GMC,Yukon
+275,924,103741,Lexus,LS
+395,988,67829,GMC,Terrain
+273,750,94769,Lincoln,Continental
+128,469,50592,Dodge,Grand Caravan
+61,230,35663,Dodge,Ram
+413,814,63530,Lexus,ES
+90,201,12179,Buick,Enclave
+603,798,47637,Ford,Focus
+141,466,21328,Toyota,Prius
+926,997,9390,Dodge,Demon
+209,492,33902,Toyota,4Runner
+180,553,59793,Lexus,RC
+313,660,41790,Mazda,CX-9
+252,295,8757,Dodge,Charger
+403,534,28571,Infinity,QX50
+119,538,68989,Chevrolet,Malibu
+396,489,13406,Mazda,CX-5
+541,772,46523,Kia,Rio
+525,686,16467,BMW,M Series
+436,563,24540,Chevrolet,Silverado
+227,290,5008,Honda,Odyssey
+793,880,18161,Chevrolet,Silverado
+207,576,60201,Subaru,Ascent
+426,839,81770,Mercedes,GLE
+517,740,31001,Chevrolet,Monte Carlo
+345,778,91168,Mitsubishi,Lancer
+979,1022,11409,Lexus,RC
+965,1018,9603,Hyundai,Accent
+114,565,37982,Chevrolet,Spark
+52,593,56131,Ford,Focus
+415,766,56133,Lexus,ES
+742,913,37144,Ford,F350
+181,854,120191,Toyota,RAV4
+218,417,12038,Chevrolet,Spark
+430,473,10525,Hyundai,Azera
+373,716,56540,Ford,Focus
+554,751,20120,Kia,K900
+488,625,24289,Jeep,Renegade
+659,768,21672,Buick,Regal
+535,990,34330,Infinity,Q50
+143,706,76748,Chevrolet,Bolt
+685,752,8750,Dodge,Grand Caravan
+300,571,53612,Infinity,QX70
+163,668,42614,Kia,Forte
+910,911,142,Ford,Super Duty
+541,850,30174,Honda,Ridgeline
+419,876,46864,Toyota,Sequoia
+362,383,1788,Infinity,QX80
+479,812,67483,Infinity,Q70
+850,887,4687,Ford,Ecosport
+140,749,38084,Ford,F350
+191,560,22084,Subaru,Ascent
+57,478,81608,Hyundai,Genesis G80
+157,392,42440,Ford,Taurus
+209,566,29477,Toyota,Prius
+205,966,119557,Hyundai,Tucson
+532,927,49417,Lincoln,MKC
+237,268,5282,Honda,Pilot
+237,260,1524,Cadillac,XT5
+150,493,57968,GMC,Yukon
+788,831,10651,Toyota,Corolla
+609,940,82697,BMW,6 Series
+46,695,59851,BMW,6 Series
+696,771,16836,GMC,Acadia
+404,829,76118,Lincoln,Continental
+259,312,8777,Subaru,Forester
+137,836,103596,Chevrolet,Volt
+693,1014,43581,Kia,Soul
+124,619,107729,Lincoln,MKZ
+361,852,60099,BMW,5 Series
+573,810,52604,Mercedes,Roadster
+611,714,23575,Buick,Lacrosse
+455,610,30660,Honda,Odyssey
+253,298,4534,GMC,Terrain
+425,802,31683,Toyota,Prius
+376,417,9804,Lexus,LS
+881,952,10830,Buick,Enclave
+552,877,28984,Buick,Regal
+475,838,73471,Cadillac,ATS
+715,1010,38887,Ford,Fiesta
+107,406,67412,Mercedes,E-Class
+600,983,52000,GMC,Terrain
+172,1007,60831,Kia,Soul
+534,745,26308,Dodge,Ram
+120,887,67645,Hyundai,Elantra
+71,340,16357,Infinity,Q50
+528,815,54539,Dodge,Ram
+58,115,6761,Toyota,Prius
+585,1016,78269,Honda,Ridgeline
+848,889,9603,Honda,Odyssey
+570,809,58267,BMW,Z4
+554,833,50368,BMW,Z4
+243,754,41418,Kia,K900
+120,171,8156,Subaru,Legacy
+51,440,68695,Toyota,Highlander
+124,325,32448,Dodge,Charger
+379,406,3411,Mercedes,E-Class
+741,758,1400,Ford,Explorer
+271,350,16558,BMW,4 Series
+157,422,39221,Lexus,LX
+17,890,146754,BMW,7 Series
+305,762,51124,Chrysler,300
+314,825,46020,Kia,Forte
+838,923,12792,Toyota,Sienna
+239,752,96894,Mercedes,E-Class
+82,815,120958,Kia,K900
+153,174,5155,Hyundai,Kona
+172,243,19671,Buick,Envision
+521,920,75498,Ford,Focus
+135,494,65136,Kia,Cadenza
+407,666,21720,Kia,Stinger
+491,496,1008,Ford,Mustang
+269,760,63832,Honda,Pilot
+401,534,24251,Mitsubishi,Outlander
+48,651,45950,Hyundai,Azera
+585,776,28750,Mitsubishi,Outlander
+177,294,17430,Mercedes,GLA
+200,765,60961,Kia,Niro
+657,776,22418,Mazda,CX-9
+128,921,60258,Kia,Stinger
+440,943,21630,Hyundai,Ioniq
+793,914,25731,Honda,Civic
+552,553,156,Infinity,QX60
+154,607,50451,Honda,Accord
+78,953,64149,Ford,Ecosport
+134,177,5136,Mitsubishi,Outlander
+178,495,24382,Lexus,LC
+302,443,24421,Mercedes,GLS
+465,904,25178,Mitsubishi,Eclipse
+295,362,12897,Ford,Taurus
+460,829,40840,Toyota,Corolla
+570,835,23533,Toyota,Avalon
+343,764,52176,BMW,6 Series
+478,715,20120,Chevrolet,Colorado
+300,661,53229,Dodge,Grand Caravan
+438,441,630,Chevrolet,Cruze
+86,823,109925,Mitsubishi,Outlander
+72,313,33598,Honda,Pilot
+536,921,43768,Kia,Soul
+768,925,22905,Ford,Escape
+185,298,28720,Lexus,NX
+552,837,39255,Toyota,Camry
+106,205,26663,Mitsubishi,Mirage
+590,593,546,Ford,Mustang
+263,454,24939,Kia,Sedona
+339,606,65943,Chevrolet,Volt
+178,497,34203,Toyota,4Runner
+315,914,94933,Infinity,QX50
+520,1001,71030,Lexus,IS
+497,522,6668,Infinity,QX80
+745,760,3529,Buick,Encore
+656,669,2054,Jeep,Renegade
+275,708,59755,BMW,X Series
+137,244,12575,Infinity,QX60
+171,514,14849,Subaru,Legacy
+356,457,17188,Lexus,IS
+397,732,72573,Mercedes,E-Class
+141,1002,96313,Chevrolet,Monte Carlo
+5,110,26499,Ford,Ranger
+352,651,64093,Chevrolet,Silverado
+211,750,32169,Cadillac,ATS
+487,966,91009,Honda,Pilot
+304,551,25197,Chevrolet,Traverse
+381,508,29663,Mercedes,GLS
+181,206,3779,Infinity,QX50
+684,721,9737,Chevrolet,Trax
+728,765,7267,Toyota,Land Cruiser
+201,694,62513,GMC,Sierra
+32,171,19306,Kia,K900
+277,350,17459,Buick,Regal
+797,802,1058,Hyundai,Sonata
+162,585,24837,Mazda,CX-9
+186,383,45047,Chevrolet,Traverse
+260,397,22883,Ford,Edge
+198,213,1564,Honda,Fit
+225,620,51011,Jeep,Compass
+542,869,25281,Chevrolet,Bolt
+128,589,35009,Ford,GT
+239,912,64614,Mercedes,Roadster
+163,464,49299,Buick,Encore
+435,812,73517,Kia,Soul
+173,594,74584,Chrysler,300
+54,755,46106,BMW,Z4
+291,304,3294,Infinity,QX50
+398,707,23352,Infinity,QX50
+210,785,36808,Buick,Envision
+113,516,50174,Jeep,Renegade
+279,666,83490,Lincoln,MKC
+143,748,80567,Cadillac,ATS
+113,834,71945,Ford,Focus
+399,916,73820,Honda,CR-V
+219,544,52225,Subaru,WRX
+687,798,16378,Chevrolet,Bolt
+391,926,103949,Kia,Forte
+44,381,44203,Subaru,Impreza
+80,545,93809,Hyundai,Kona
+468,791,55228,Lexus,GS
+293,348,14933,Mercedes,C-Class
+219,788,46434,Chevrolet,Trax
+288,659,36456,Hyundai,Santa Fe
+26,1003,122111,Lexus,RC
+60,757,54256,Kia,Soul
+12,717,118352,Toyota,Tundra
+149,938,121744,Chevrolet,Bolt
+27,78,9797,Hyundai,Genesis G80
+119,1010,101680,Mercedes,GLE
+494,517,2161,Toyota,Tundra
+164,759,26173,Chevrolet,Silverado
+889,1018,30461,Mercedes,GLE
+286,921,92442,Mercedes,GLA
+416,963,94212,Mercedes,GLC
+576,649,12461,GMC,Savana
+423,514,8870,Toyota,RAV4
+147,470,40809,Ford,Ranger
+308,963,119399,Kia,K900
+833,854,3596,Chevrolet,Impala
+290,755,57508,BMW,3 Series
+401,884,71235,GMC,Savana
+333,664,47731,Kia,Rio
+739,796,14186,Kia,Stinger
+59,502,63881,Subaru,WRX
+22,577,45315,Kia,Soul
+281,402,30968,Kia,Rio
+314,371,11693,Kia,K900
+635,1016,39076,Kia,Rio
+34,881,93877,GMC,Terrain
+171,690,57734,Chevrolet,Impala
+756,807,11538,Mercedes,E-Class Wagon
+205,392,20222,Kia,Forte
+339,716,71056,Lexus,RX
+52,413,72855,Toyota,Tacoma
+614,763,32192,Chevrolet,Traverse
+548,985,46407,Lincoln,MKZ
+733,818,17924,Toyota,Tacoma
+64,355,34203,Ford,Flex
+200,467,26238,Jeep,Wrangler
+699,748,11144,Cadillac,CTS
+404,561,23485,Lexus,GS
+49,244,29994,Lincoln,MKZ
+162,515,57263,Hyundai,Azera
+349,938,110776,Ford,Fiesta
+37,510,43651,Dodge,Durango
+129,162,8605,Toyota,Camry
+235,372,26079,Dodge,Grand Caravan
+264,893,114184,Infinity,QX50
+190,969,124052,Subaru,BRZ
+47,108,8464,Buick,Enclave
+402,681,19762,Ford,Escape
+64,171,18153,Chevrolet,Volt
+84,359,28331,Chevrolet,Impala
+36,515,104586,Cadillac,ATS
+489,682,15908,BMW,3 Series
+307,962,90440,Buick,Lacrosse
+39,262,35770,Chevrolet,Trax
+199,334,22699,Toyota,Prius
+415,764,59064,Dodge,Challenger
+102,459,40089,Infinity,QX70
+522,597,6720,Hyundai,Accent
+68,597,87497,Buick,Regal
+422,435,2920,Toyota,Tacoma
+525,950,59615,Kia,Soul
+816,973,10148,Lexus,RX
+2,875,97169,Chevrolet,Spark
+96,529,63169,GMC,Yukon
+353,744,18349,Hyundai,Azera
+515,670,41692,Mazda,CX-3
+52,235,26331,GMC,Yukon
+645,830,20363,Chevrolet,Corvette
+97,906,72436,Cadillac,CTS
+1,314,47730,Ford,F150
+726,755,6748,Subaru,Crosstrek
+124,343,19167,Hyundai,Kona
+592,761,27600,BMW,2 Series
+23,228,30624,Kia,Optima
+75,740,82180,Toyota,Tundra
+507,978,50050,Infinity,QX70
+24,419,54837,Infinity,QX50
+325,390,11833,Ford,Super Duty
+338,481,36979,Infinity,QX30
+59,548,70354,Buick,Envision
+295,320,3211,Honda,CR-V
+38,693,92222,GMC,Terrain
+609,922,61784,Buick,Envision
+439,608,19227,Dodge,Durango
+443,662,12127,Kia,Sportage
+305,936,94740,Ford,F350
+585,730,27351,Dodge,Challenger
+1009,1014,285,Cadillac,CTS
+425,476,7361,Chevrolet,Camaro
+167,1010,85313,Infinity,Q50
+530,619,10897,Toyota,Avalon
+86,981,42326,Mitsubishi,Outlander
+144,839,66118,Cadillac,Escalade
+526,1017,85856,Subaru,Forester
+237,576,50354,Buick,Enclave
+523,748,13820,Hyundai,Tucson
+247,614,60247,Cadillac,Escalade
+192,801,26103,Kia,Optima
+27,762,36284,Ford,F150
+465,792,20884,Toyota,Tacoma
+46,411,70189,Dodge,Grand Caravan
+153,378,40858,Toyota,Highlander
+232,631,34376,Hyundai,Accent
+802,827,3285,Cadillac,XTS
+26,919,107272,Infinity,QX80
+509,1020,54841,Jeep,Compass
+274,893,96748,Hyundai,Kona
+520,907,78468,Kia,Sedona
+331,580,26904,Subaru,WRX
+540,889,72961,Ford,Ecosport
+313,774,43940,Infinity,QX50
+744,875,28939,Mercedes,Maybach
+427,782,24652,Chevrolet,Spark
+154,961,44500,Lincoln,Navigator
+269,412,22214,Kia,Rio
+91,1016,123254,Mercedes,S-Class
+246,477,51852,Subaru,Outback
+508,591,15052,Toyota,RAV4
+17,470,63857,Mercedes,C-Class
+135,610,40132,Subaru,WRX
+2,949,80948,Ford,Edge
+32,657,62535,Hyundai,Veloster
+286,391,13349,Subaru,Outback
+461,898,76658,Chevrolet,Trax
+329,506,31047,Subaru,WRX
+171,846,105439,Buick,Regal
+37,972,77745,Ford,Ecosport
+536,871,68650,Toyota,RAV4
+1013,1016,174,Chevrolet,Equinox
+39,920,144079,BMW,Z4
+53,526,92031,Subaru,Legacy
+405,664,15838,Dodge,Charger
+99,576,77938,Jeep,Renegade
+214,695,58885,Subaru,WRX
+557,798,52097,Mazda,CX-9
+133,906,108279,Lincoln,MKC
+356,549,24824,Chevrolet,Silverado
+477,616,18658,BMW,7 Series
+676,677,219,Chrysler,Pacifica
+293,564,23044,Honda,Ridgeline
+435,450,1966,Mercedes,GLE
+672,949,60603,Subaru,BRZ
+92,971,120417,Cadillac,ATS
+178,791,78602,Chevrolet,Equinox
+42,97,11080,Hyundai,Tucson
+650,987,40825,Chevrolet,Spark
+91,680,58745,Subaru,WRX
+415,902,71270,Toyota,4Runner
+176,565,77203,Dodge,Charger
+66,793,35639,Lexus,RX
+172,485,55685,GMC,Terrain
+418,661,45618,Hyundai,Elantra
+106,729,105337,Lincoln,MKC
+757,952,14115,Jeep,Wrangler
+536,699,19954,Hyundai,Tucson
+275,790,81726,Toyota,Land Cruiser
+216,249,4514,Kia,Sedona
+416,913,81677,Kia,Forte
+100,373,39987,Subaru,Forester
+395,522,14176,Hyundai,Azera
+682,755,10138,Hyundai,Tucson
+95,458,55253,Chevrolet,Monte Carlo
+574,917,42834,Mitsubishi,Mirage
+220,669,86940,Toyota,Sequoia
+385,798,50447,Honda,CR-V
+546,679,13680,Dodge,Durango
+32,519,80179,Jeep,Wrangler
+844,991,23470,Lexus,IS
+111,1016,94957,Lexus,IS
+435,884,86589,Chevrolet,Spark
+328,593,33915,BMW,5 Series
+391,686,56057,Toyota,Sienna
+445,850,5880
+...[truncated 19032541 chars]...
+rand Cherokee
+516,647,23298,Subaru,Ascent
+127,228,21317,GMC,Acadia
+345,656,67526,GMC,Savana
+523,904,76600,Chevrolet,Silverado
+633,806,16948,Subaru,WRX
+247,260,3682,Ford,Ranger
+302,741,76223,Hyundai,Elantra
+625,774,39376,Honda,Clarity
+193,624,73164,Toyota,Tundra
+381,884,101316,Lexus,RX
+336,963,38284,Buick,Lacrosse
+218,803,51820,Kia,Niro
+265,444,15519,Infinity,Q70
+415,632,24057,Ford,F150
+466,883,23579,BMW,Z4
+44,1007,132648,Hyundai,Accent
+138,785,90734,Honda,Accord
+559,880,51431,Chevrolet,Cruze
+566,827,47825,Mitsubishi,Outlander
+13,776,65588,Kia,Niro
+75,284,41851,Lincoln,MKC
+267,366,22612,Mazda,CX-3
+187,976,98948,Subaru,Legacy
+446,925,51009,Chevrolet,Monte Carlo
+967,1014,10057,Infinity,QX60
+82,573,97801,Honda,HR-V
+356,889,94629,Chevrolet,Equinox
+470,669,45276,Ford,F350
+363,410,3307,Subaru,Legacy
+316,651,29142,Kia,Rio
+391,890,72842,Honda,CR-V
+374,605,13322,Mitsubishi,Eclipse
+763,1010,46918,Chevrolet,Camaro
+70,941,94608,Mitsubishi,Outlander
+218,849,27942,Mercedes,Cabriolet
+667,1000,54656,Ford,F350
+255,624,33277,Kia,Cadenza
+67,304,23473,Ford,Expedition
+483,900,79371,Chevrolet,Monte Carlo
+44,761,67568,Ford,Focus
+786,825,8723,Toyota,Sienna
+95,434,58275,BMW,Z4
+30,547,103966,Chevrolet,Malibu
+629,718,15409,GMC,Savana
+615,806,40007,Toyota,Tundra
+503,876,32032,Lexus,RX
+525,554,1973,Hyundai,Tucson
+224,943,48058,Ford,Super Duty
+29,956,111630,Ford,Expedition
+802,839,4796,Ford,Edge
+656,981,23242,Lexus,NX
+335,848,68826,Hyundai,Veloster
+107,808,72387,Chevrolet,Volt
+784,835,13577,Buick,Regal
+156,497,27002,BMW,5 Series
+680,853,23917,Lexus,RC
+191,726,26086,Buick,Regal
+134,545,32195,Lexus,LS
+275,796,42343,Mazda,Miata
+533,778,51551,Kia,Cadenza
+14,999,55728,Ford,F350
+114,235,28919,Kia,Soul
+89,730,24661,Chevrolet,Tahoe
+943,970,4796,Chevrolet,Corvette
+232,775,33120,BMW,2 Series
+281,576,23736,Chrysler,Pacifica
+640,1003,63914,Toyota,Land Cruiser
+10,767,104505,Chevrolet,Corvette
+13,488,37578,Mitsubishi,Outlander
+170,969,78453,Chevrolet,Cruze
+99,918,76180,Subaru,Legacy
+571,608,8357,Toyota,Camry
+39,238,32699,Ford,Ecosport
+980,1001,3700,Honda,Pilot
+411,912,102558,Chevrolet,Spark
+791,964,20591,Hyundai,Kona
+707,800,20952,Dodge,Journey
+253,318,14917,Buick,Cascada
+600,697,10258,Mazda,CX-9
+399,798,67466,Mercedes,Cabriolet
+173,862,35205,BMW,3 Series
+2,747,61619,Chevrolet,Tahoe
+426,735,62447,Subaru,Legacy
+800,937,20454,Ford,Focus
+6,195,39287,Toyota,Tundra
+183,644,85378,Chevrolet,Spark
+79,288,9947,Lexus,IS
+199,672,53473,Chevrolet,Silverado
+445,922,46836,Mercedes,Maybach
+733,778,3521,Lexus,RC
+382,657,32379,Honda,Fit
+375,544,41090,GMC,Canyon
+351,490,22415,Mercedes,GLA
+160,739,110888,Cadillac,CT6
+400,441,9603,Chevrolet,Tahoe
+394,639,31276,Kia,Sportage
+245,962,68500,Ford,Ranger
+370,579,25899,Ford,F250
+465,532,9074,Hyundai,Tucson
+714,865,22099,Toyota,RAV4
+795,976,17491,Toyota,Corolla
+660,857,35076,Cadillac,XT5
+443,582,30189,Infinity,QX80
+758,895,10355,BMW,M Series
+765,904,20990,Chevrolet,Corvette
+19,246,45414,Kia,Soul
+446,947,63200,Dodge,Journey
+156,591,35289,Mitsubishi,Outlander
+840,891,5769,Hyundai,Accent
+821,1006,24739,Subaru,BRZ
+319,738,63656,GMC,Acadia
+117,596,26422,GMC,Savana
+297,986,111101,Mitsubishi,Outlander
+256,899,53376,Mazda,Miata
+264,741,64033,Infinity,Q70
+466,617,18183,Honda,Ridgeline
+557,940,31761,Chevrolet,Corvette
+139,460,54679,Jeep,Renegade
+5,484,73761,Lincoln,MKZ
+202,753,86191,Buick,Cascada
+67,430,62420,Buick,Envision
+914,921,1403,Jeep,Grand Cherokee
+648,1013,83086,Honda,CR-V
+442,547,27893,Lexus,LX
+86,655,73554,Chevrolet,Equinox
+814,991,16332,Honda,CR-V
+385,774,44116,Chevrolet,Impala
+140,783,50288,Cadillac,ATS
+185,768,100507,Jeep,Wrangler
+103,678,38462,BMW,7 Series
+888,965,7782,Infinity,QX30
+43,630,101339,Toyota,Sequoia
+551,708,18991,Kia,Sorento
+9,218,26462,Lincoln,Continental
+447,520,7181,Chevrolet,Traverse
+72,1007,100103,Ford,Super Duty
+148,257,19402,Kia,Rio
+351,636,29196,Kia,Forte
+372,799,31432,Lexus,LX
+847,918,5347,Lincoln,Continental
+573,1008,69207,Buick,Enclave
+705,804,17524,BMW,3 Series
+846,883,3706,BMW,X Series
+35,332,26917,Kia,Sedona
+7,564,87591,Ford,Mustang
+335,622,65644,Kia,Cadenza
+616,823,33308,Hyundai,Ioniq
+179,666,27840,Mercedes,Roadster
+276,645,49613,Toyota,4Runner
+13,318,21545,Subaru,Crosstrek
+544,697,11609,Ford,Escape
+473,878,79603,Buick,Regal
+179,828,70048,Chevrolet,Traverse
+525,874,40824,Mercedes,GLE
+346,557,25172,Ford,F350
+137,404,25774,Infinity,QX80
+154,585,41517,Chevrolet,Silverado
+33,586,88810,Ford,Super Duty
+29,204,21447,BMW,Z4
+338,403,12651,Honda,Ridgeline
+228,615,28563,Chevrolet,Volt
+47,576,68663,BMW,5 Series
+509,924,63204,Mercedes,S-Class
+235,446,47884,BMW,3 Series
+800,853,12804,Cadillac,Escalade
+640,931,58669,Chevrolet,Spark
+228,559,34688,Hyundai,Elantra
+273,812,53218,Ford,Mustang
+527,814,34797,BMW,6 Series
+46,267,35291,Lexus,RC
+673,700,4343,Lexus,LC
+644,971,29678,Lincoln,MKZ
+131,732,105734,Hyundai,Genesis G80
+266,469,25969,Honda,Fit
+103,448,41025,BMW,Z4
+248,381,33952,Chevrolet,Monte Carlo
+693,976,50243,Hyundai,Kona
+207,474,27167,Infinity,QX30
+278,653,75665,Dodge,Charger
+264,955,109886,Hyundai,Genesis G80
+266,849,110933,Ford,Flex
+245,776,64506,Cadillac,XT5
+555,820,33915,Mercedes,Cabriolet
+485,944,42380,Honda,Ridgeline
+72,619,95014,GMC,Canyon
+730,1009,33016,Ford,GT
+416,601,17839,Toyota,Tundra
+16,665,55417,Mercedes,GLE
+330,711,84663,Toyota,Camry
+147,620,42924,Mazda,Miata
+669,716,3904,Mercedes,E-Class Wagon
+193,324,29675,Mercedes,S-Class
+147,728,121524,Mitsubishi,Lancer
+54,357,32530,Chevrolet,Bolt
+556,915,63359,Chrysler,Pacifica
+713,846,30967,Chrysler,Pacifica
+588,715,11317,Mitsubishi,Mirage
+618,1019,76752,BMW,3 Series
+271,850,70603,Infinity,QX60
+44,813,81163,Jeep,Compass
+150,873,85601,Lincoln,Navigator
+723,988,14305,Chevrolet,Bolt
+161,446,35820,Mercedes,C-Class
+542,681,14253,Chevrolet,Volt
+257,498,22540,Mercedes,GLA
+670,967,28187,Chevrolet,Express
+242,491,52932,Subaru,WRX
+583,596,1318,Lincoln,MKZ
+242,903,107886,Subaru,Outback
+754,825,9527,Toyota,Sequoia
+31,550,101907,Ford,Ranger
+374,767,67011,Kia,Sedona
+159,546,33899,Chevrolet,Volt
+413,794,76910,Honda,CR-V
+990,1007,3406,Lexus,RC
+456,907,62952,Ford,Taurus
+643,768,16432,Mercedes,Maybach
+818,917,17524,Kia,Optima
+401,444,10314,Chevrolet,Bolt
+55,734,53559,Mercedes,E-Class Wagon
+765,814,4735,Buick,Lacrosse
+412,679,37848,Chevrolet,Impala
+304,355,5272,Cadillac,XTS
+185,730,87194,Hyundai,Ioniq
+98,657,91039,Ford,Ranger
+825,990,35196,Chevrolet,Colorado
+266,667,42568,GMC,Yukon
+489,804,36784,Toyota,4Runner
+99,282,25998,Mercedes,Cabriolet
+349,484,33669,Dodge,Grand Caravan
+677,936,46607,Hyundai,Santa Fe
+153,682,60031,Dodge,Charger
+16,655,45721,Lexus,LC
+282,933,56841,Mercedes,Roadster
+134,635,44278,Chevrolet,Cruze
+267,624,51880,Mercedes,Cabriolet
+430,671,21477,BMW,M Series
+625,828,22495,Kia,K900
+471,708,28712,Toyota,Highlander
+285,840,86180,BMW,M Series
+492,521,7548,Honda,Civic
+65,898,80553,Lexus,LC
+823,826,639,Hyundai,Veloster
+187,514,33250,Subaru,BRZ
+677,784,10750,Toyota,RAV4
+728,915,18692,Kia,Soul
+463,974,105463,Subaru,Outback
+514,773,28734,Ford,Edge
+50,149,18843,Mercedes,Roadster
+596,685,16176,Infinity,QX50
+246,613,78321,Hyundai,Ioniq
+539,938,53973,Dodge,Durango
+273,424,40981,Jeep,Compass
+272,993,68675,Kia,Rio
+320,781,41439,Kia,Rio
+101,932,49876,Hyundai,Accent
+99,872,64968,Mercedes,GLE
+573,886,18827,Buick,Lacrosse
+95,832,93413,Subaru,Impreza
+809,1004,46402,Buick,Encore
+15,470,57688,Cadillac,XTS
+266,689,33228,Chevrolet,Bolt
+275,970,107441,Mercedes,E-Class
+538,971,89461,Honda,Ridgeline
+37,730,41724,Kia,Rio
+548,563,1921,Dodge,Charger
+764,897,14178,Mercedes,GLS
+749,886,18537,Dodge,Durango
+740,807,14647,Jeep,Renegade
+582,765,19998,Mitsubishi,Eclipse
+207,982,91047,Ford,Escape
+221,904,33232,Cadillac,XT5
+48,763,90749,Hyundai,Ioniq
+36,671,56079,Mercedes,GLS
+239,776,93502,Toyota,Camry
+37,528,50394,Kia,Niro
+601,902,34920,Ford,Explorer
+290,397,21398,Infinity,Q70
+422,673,59244,GMC,Savana
+694,877,13832,Hyundai,Accent
+105,814,80195,Buick,Enclave
+38,985,45820,Dodge,Journey
+666,1013,31127,Subaru,Outback
+580,1001,53514,BMW,5 Series
+132,909,103194,Ford,Focus
+649,970,67943,Cadillac,Escalade
+478,815,23932,Chevrolet,Colorado
+206,695,94178,Infinity,QX70
+29,378,41692,BMW,Z4
+955,998,8925,GMC,Sierra
+465,766,30042,Toyota,RAV4
+609,738,10517,Toyota,Land Cruiser
+346,655,40407,Mercedes,Cabriolet
+91,726,124863,Toyota,4Runner
+100,903,57114,Hyundai,Sonata
+10,439,66132,Buick,Regal
+226,319,21307,Toyota,4Runner
+177,302,33568,BMW,7 Series
+281,944,59633,Dodge,Grand Caravan
+743,894,16365,Cadillac,CTS
+221,804,103426,Ford,Taurus
+112,779,111093,Mazda,CX-5
+402,601,16709,Kia,Stinger
+184,443,57919,Mercedes,C-Class
+413,612,17248,Lexus,ES
+193,840,60637,Cadillac,CT6
+477,976,88694,Toyota,Tundra
+201,642,67824,Honda,Civic
+344,413,8668,Honda,Pilot
+254,689,89763,Buick,Cascada
+132,229,26429,Mercedes,E-Class
+426,661,35990,Chrysler,Pacifica
+395,920,65200,Infinity,Q50
+287,566,25546,Ford,F150
+337,634,17776,Lexus,LC
+362,877,47031,Hyundai,Santa Fe
+178,653,45969,Infinity,QX70
+616,803,42142,Mercedes,Maybach
+152,801,108174,Dodge,Ram
+609,958,23163,Chevrolet,Colorado
+318,959,107892,Subaru,Legacy
+97,238,24552,Hyundai,Accent
+346,1007,73417,Mazda,CX-5
+135,864,115499,Jeep,Renegade
+51,60,2106,Chevrolet,Colorado
+473,954,35331,Honda,Ridgeline
+200,989,82941,Jeep,Renegade
+314,979,63768,Dodge,Grand Caravan
+231,520,61062,Jeep,Wrangler JK
+340,395,11454,BMW,M Series
+450,995,79994,Hyundai,Genesis G80
+670,925,62957,Subaru,Crosstrek
+231,588,74282,Subaru,Ascent
+301,612,42995,Cadillac,CT6
+649,676,3438,BMW,3 Series
+545,700,14327,Lexus,ES
+617,852,32662,Mercedes,Cabriolet
+120,413,45697,Chevrolet,Express
+108,705,114626,GMC,Canyon
+83,114,4824,Kia,Niro
+55,172,13900,GMC,Terrain
+56,835,92677,Infinity,Q50
+718,979,30973,Kia,Sorento
+730,825,24098,Kia,Cadenza
+568,905,52368,Hyundai,Santa Fe
+616,925,50377,Infinity,QX30
+456,605,30257,Jeep,Wrangler JK
+40,145,11257,Ford,Ranger
+320,977,68721,Honda,Civic
+175,210,3200,Hyundai,Sonata
+409,644,43896,Cadillac,Escalade
+526,567,8398,Chevrolet,Traverse
+832,863,4458,Kia,Sedona
+428,849,22075,Lincoln,MKZ
+60,333,54894,Mercedes,E-Class Wagon
+696,1015,53594,Mercedes,E-Class
+887,988,20357,Subaru,Ascent
+610,699,13962,Toyota,Camry
+839,944,12851,Chevrolet,Camaro
+193,654,48941,Kia,K900
+168,821,52486,Mercedes,GLS
+562,617,6263,Ford,Flex
+90,631,81211,Toyota,4Runner
+196,907,44560,Hyundai,Veloster
+378,395,4687,Ford,Escape
+858,991,19899,Mercedes,GLS
+445,612,16719,Chevrolet,Express
+82,255,33895,Honda,Odyssey
+776,875,17807,Chevrolet,Traverse
+189,658,39053,GMC,Acadia
+666,895,33357,Mercedes,GLE
+114,171,5985,BMW,M Series
+213,600,72818,Chevrolet,Colorado
+290,565,35235,Ford,F350
+603,962,58622,Toyota,Sienna
+397,730,50473,Chevrolet,Traverse
+564,945,65126,Buick,Enclave
+576,793,32206,Lexus,LS
+131,688,86374,Chevrolet,Tahoe
+349,496,15419,Infinity,QX80
+456,911,92726,Toyota,Camry
+390,635,41413,Mitsubishi,Outlander
+272,763,68312,Ford,Ecosport
+499,634,21690,Cadillac,CT6
+599,906,45933,Toyota,Tundra
+259,620,74937,Kia,Sorento
+180,599,24330,Infinity,QX80
+599,634,1893,Ford,Explorer
+431,466,5952,Kia,K900
+14,223,29090,Chevrolet,Tahoe
+152,617,96685,Mercedes,Roadster
+186,953,72922,Lexus,NX
+97,540,28469,Chevrolet,Camaro
+157,480,47339,Mercedes,E-Class Wagon
+532,965,55316,Cadillac,Escalade
+34,649,47336,BMW,4 Series
+485,502,2765,Mercedes,Roadster
+534,557,6527,Chevrolet,Impala
+32,281,20998,Lincoln,MKC
+456,829,47591,Lexus,GS
+755,908,26049,Lincoln,MKZ
+363,954,42466,Subaru,Legacy
+42,73,4366,Hyundai,Accent
+362,767,28917,Honda,Civic
+357,492,12611,GMC,Sierra
+260,917,70059,Chrysler,300
+409,442,2046,Buick,Cascada
+39,482,55549,Jeep,Wrangler
+378,921,46687,Honda,CR-V
+136,731,36726,Honda,Pilot
+319,532,27101,Mercedes,Cabriolet
+898,1021,19192,Subaru,Outback
+462,927,63259,Infinity,Q70
+450,951,70391,Jeep,Renegade
+373,828,44948,Mitsubishi,Mirage
+287,346,12435,Mazda,CX-9
+611,880,29676,Ford,Transit
+129,862,80953,GMC,Acadia
+54,91,5705,Ford,F350
+28,183,25073,Mitsubishi,Mirage
+333,742,82485,Toyota,Sequoia
+179,392,34353,Subaru,WRX
+179,790,69881,Toyota,4Runner
+298,439,21007,Ford,Ranger
+432,547,16282,Dodge,Ram
+657,762,11656,Ford,Fiesta
+630,679,6218,Toyota,RAV4
+483,582,18467,Cadillac,XTS
+67,434,61151,Buick,Regal
+327,422,12865,Lincoln,MKZ
+618,771,9769,Lexus,RX
+181,572,22145,Honda,Civic
+111,284,24392,Toyota,Corolla
+704,705,235,Honda,Accord
+36,565,38844,Chevrolet,Traverse
+227,544,43942,Cadillac,ATS
+670,823,27607,Toyota,Tacoma
+233,682,96405,Infinity,QX70
+41,144,12326,Subaru,BRZ
+386,405,3125,Ford,Mustang
+272,623,52061,Mazda,Miata
+252,665,20113,Ford,F150
+757,828,10761,Dodge,Journey
+478,661,36996,GMC,Savana
+701,982,19154,Subaru,Ascent
+655,970,67171,Kia,Soul
+21,556,29248,Lincoln,MKZ
+187,624,48470,Mazda,Miata
+262,499,31646,Chrysler,300
+21,1016,59856,Cadillac,ATS
+927,968,9402,Kia,Sedona
+1008,1015,1619,Honda,Ridgeline
+140,641,23085,Infinity,QX50
+381,628,25631,Chevrolet,Bolt
+688,941,51224,Lincoln,MKZ
+664,857,42305,Lexus,LS
+348,869,32631,BMW,Z4
+215,652,20969,BMW,4 Series
+440,755,19725,Chevrolet,Trax
+123,176,5370,Buick,Cascada
+538,1007,102694,Mercedes,GLC
+90,829,116196,Subaru,WRX
+117,308,8833,Honda,Accord
+486,639,24917,Mazda,CX-5
+611,696,13525,Ford,Flex
+165,172,1535,Kia,Optima
+282,659,24609,Kia,Soul
+615,874,15385,Dodge,Durango
+458,741,25609,Cadillac,XTS
+626,917,40444,Honda,Clarity
+896,957,11482,BMW,6 Series
+171,542,42835,Subaru,Legacy
+188,443,39962,BMW,5 Series
+727,838,21627,BMW,2 Series
+65,512,72683,Chevrolet,Equinox
+602,819,36668,Ford,GT
+461,630,20002,Lexus,NX
+611,982,63797,BMW,5 Series
+579,840,25963,Hyundai,Genesis G80
+114,799,61545,Honda,Ridgeline
+499,916,36863,Kia,Sedona
+684,709,6890,Mitsubishi,Lancer
+361,982,125916,Hyundai,Tucson
+221,852,47152,Chevrolet,Equinox
+275,770,83330,Ford,Focus
+79,712,96655,Cadillac,ATS
+428,729,50326,GMC,Acadia
+16,123,21195,GMC,Canyon
+19,602,89664,Toyota,Camry
+82,245,9752,Dodge,Journey
+54,869,98625,Dodge,Journey
+499,520,5654,Jeep,Wrangler JK
+288,723,45567,Mitsubishi,Eclipse
+10,925,48596,Mercedes,C-Class
+222,607,70341,Ford,Mustang
+281,308,1866,Kia,Optima
+35,612,45589,Mitsubishi,Mirage
+534,585,4228,Toyota,Land Cruiser
+191,210,4631,Ford,Fiesta
+23,376,32722,Mercedes,Cabriolet
+48,425,61521,Ford,Transit
+28,337,37783,Chevrolet,Trax
+132,449,22507,Ford,F150
+221,380,26545,Mercedes,Roadster
+48,301,31267,Toyota,4Runner
+771,998,29873,Hyundai,Accent
+26,821,30157,Honda,Pilot
+3,854,123352,Toyota,Tacoma
+667,1010,57682,Chevrolet,Volt
+103,456,53173,Subaru,Crosstrek
+308,707,88991,Chevrolet,Spark
+187,746,99167,Mazda,CX-3
+798,839,6228,Cadillac,CT6
+790,1005,18859,Hyundai,Sonata
+400,581,30196,GMC,Canyon
+59,496,67032,Buick,Lacrosse
+344,955,49303,Chevrolet,Corvette
+607,856,50745,Hyundai,Santa Fe
+67,356,40957,Chevrolet,Malibu
+559,668,15790,Mazda,Miata
+282,289,775,Kia,Stinger
+217,708,35836,Buick,Encore
+138,749,90459,Ford,Ecosport
+333,684,67767,Subaru,WRX
+24,537,74209,Ford,Expedition
+763,798,6674,Lexus,RC
+224,285,15980,Chevrolet,Equinox
+756,757,195,Kia,Cadenza
+246,489,25701,Honda,Odyssey
+721,982,19130,Toyota,RAV4
+431,628,48786,Ford,Ranger
+619,944,46209,Honda,HR-V
+187,790,120405,Toyota,Sienna
+196,541,57377,Mercedes,E-Class
+526,1013,86118,Chevrolet,Silverado
+270,353,16485,Infinity,Q50
+498,597,8386,Mazda,CX-5
+67,210,32589,Cadillac,Escalade
+514,987,73843,Chevrolet,Bolt
+428,927,58878,Kia,Stinger
+630,657,4850,Ford,Mustang
+391,748,72219,Subaru,WRX
+718,769,4775,Toyota,Prius
+186,685,103035,Cadillac,XTS
+292,541,47245,Mazda,CX-5
+131,958,96145,Infinity,Q70
+34,665,56320,Lincoln,Continental
+156,943,114360,Lexus,RC
+249,964,112157,Mazda,CX-3
+10,613,102110,Subaru,Crosstrek
+211,622,59134,Mitsubishi,Mirage
+64,167,17999,Mitsubishi,Outlander
+276,773,83183,Toyota,Land Cruiser
+536,983,82468,Chevrolet,Colorado
+594,943,25479,BMW,2 Series
+143,920,79565,Chevrolet,Impala
+980,985,669,GMC,Sierra
+257,306,6314,Kia,Sportage
+508,645,27741,Ford,Taurus
+208,681,62931,Toyota,Tacoma
+494,1017,49459,Hyundai,Veloster
+189,884,96422,Chevrolet,Camaro
+340,847,68668,Toyota,Sienna
+757,894,31320,Mazda,CX-9
+306,623,55731,Kia,Optima
+702,749,7715,Jeep,Compass
+495,746,57483,Chevrolet,Bolt
+479,712,32420,Kia,Sorento
+142,679,116482,Ford,F150
+112,205,12696,Honda,CR-V
+464,541,7856,Infinity,QX70
+520,563,8125,Mazda,CX-5
+196,197,280,Buick,Enclave
+254,767,108814,Cadillac,XT5
+426,979,37139,Lincoln,Continental
+191,768,101538,Hyundai,Azera
+604,865,46004,Ford,Focus
+360,491,30533,Ford,Explorer
+284,779,82579,Jeep,Renegade
+603,1010,75007,Ford,F250
+668,771,23869,Cadillac,Escalade
+595,760,40203,Infinity,QX60
+12,577,36822,Honda,HR-V
+654,913,25566,Kia,Optima
+219,614,84168,Lexus,GX
+346,911,116193,Infinity,QX70
+160,321,30411,Mercedes,C-Class
+59,74,3395,BMW,Z4
+584,625,4420,Infinity,QX80
+150,639,88966,Hyundai,Veloster
+416,849,57365,GMC,Savana
+255,656,62885,Chevrolet,Cruze
+188,747,80878,Lexus,LC
+290,829,39715,Lexus,LC
+237,882,75117,BMW,3 Series
+641,818,46571,GMC,Sierra
+420,829,64155,Mitsubishi,Lancer
+401,744,66535,Honda,Fit
+357,776,48659,Subaru,Outback
+117,790,72295,Ford,F250
+322,469,17739,Honda,Pilot
+313,358,6866,Ford,Mustang
+503,920,60109,Honda,Accord
+919,932,3010,Infinity,QX60
+369,538,24809,Infinity,QX80
+545,838,60511,Subaru,Legacy
+89,518,27131,Mercedes,E-Class Wagon
+19,940,50176,Kia,Soul
+45,596,111967,Dodge,Challenger
+385,1014,57964,Lexus,NX
+403,668,33223,Cadillac,CTS
+142,887,111863,Infinity,QX30
+173,502,20988,BMW,X Series
+570,869,44942,Infinity,QX30
+275,906,108274,Hyundai,Genesis G80
+126,753,48725,Hyundai,Azera
+713,816,21423,Chevrolet,Volt
+440,965,76522,Cadillac,CTS
+94,469,71377,Toyota,RAV4
+259,292,6754,Mercedes,C-Class
+158,915,82077,Lincoln,MKC
+53,886,45466,Toyota,Avalon
+603,1002,41765,Kia,Soul
+2,745,87588,Chevrolet,Traverse
+268,893,34742,Honda,CR-V
+757,930,29777,Lexus,LC
+91,704,25772,GMC,Terrain
+303,332,4804,Kia,Sportage
+191,758,67654,Lincoln,MKC
+20,135,17150,Hyundai,Santa Fe
+918,1009,13566,Toyota,Land Cruiser
+20,169,19895,Toyota,Highlander
+54,423,52638,BMW,7 Series
+53,794,55802,GMC,Sierra
+29,212,22831,Infinity,QX60
+164,465,53407,Chevrolet,Trax
+262,905,93518,Dodge,Ram
+225,842,39663,Hyundai,Ioniq
+727,792,11770,Honda,HR-V
+19,422,77688,Mercedes,Roadster
+127,814,86744,Ford,Expedition
+506,827,73357,Lexus,GX
+133,568,32205,Chevrolet,Silverado
+403,746,52828,Lexus,NX
+86,175,6981,Ford,Escape
+615,986,70480,Ford,Ranger
+211,570,55366,Mercedes,C-Class
+291,504,21185,Jeep,Grand Cherokee
+683,974,58419,Jeep,Wrangler
+292,615,63118,BMW,2 Series
+405,684,36631,BMW,3 Series
+734,997,27508,GMC,Sierra
+130,481,81146,Subaru,WRX
+728,799,8979,Ford,Mustang
+881,928,7164,Hyundai,Tucson
+738,991,58985,Kia,K900
+379,718,69025,Toyota,Prius
+539,628,20347,Hyundai,Veloster
+186,611,60625,Ford,Ecosport
+703,830,32521,Ford,Fiesta
+126,893,99309,Mazda,CX-3
+228,925,62072,Ford,Flex
+363,606,27200,Lexus,IS
+154,963,97886,Subaru,WRX
+177,686,82620,Dodge,Journey
+781,790,1658,Buick,Regal
+202,721,63547,Chevrolet,Volt
+679,1020,52297,Ford,Edge
+346,351,599,Mazda,CX-3
+126,719,53505,Lexus,ES
+52,201,28876,Toyota,Corolla
+444,659,36754,Infinity,QX70
+479,960,54101,GMC,Canyon
+452,577,11151,Toyota,Sequoia
+189,594,62383,Toyota,Land Cruiser
+39,378,50354,Chevrolet,Trax
+84,165,15015,Infinity,QX30
+123,730,84565,Subaru,Forester
+911,960,10523,Hyundai,Accent
+186,295,21982,Chevrolet,Volt
+414,845,36753,GMC,Yukon
+603,784,21121,Lexus,ES
+210,521,66208,Honda,HR-V
+470,615,34088,Infinity,QX60
+726,727,132,Toyota,Tacoma
+467,956,45414,Hyundai,Azera
+445,798,23957,Hyundai,Sonata
+391,816,35702,Chevrolet,Colorado
+48,485,72876,Jeep,Grand Cherokee
+106,193,15412,Lexus,RC
+493,702,29277,Hyundai,Veloster
+574,863,32269,Cadillac,Escalade
+582,809,50662,Toyota,Sequoia
+419,700,21821,Lexus,LS
+318,621,62994,Mercedes,E-Class Wagon
+333,898,32322,Hyundai,Elantra
+352,809,88401,Kia,Cadenza
+375,608,39027,Ford,F350
+792,829,7049,Cadillac,XT5
+201,638,43657,Hyundai,Genesis G80
+304,331,6528,Lexus,GX
+393,658,25840,Lexus,RX
+727,940,40269,Cadillac,Escalade
+240,885,67164,Chevrolet,Colorado
+184,607,40612,Cadillac,CT6
+39,182,17292,Honda,HR-V
+15,692,62996,Jeep,Renegade
+355,530,24488,Lexus,NX
+569,824,34827,Chevrolet,Equinox
+168,751,97588,Kia,Stinger
+123,422,55922,Kia,Soul
+432,853,66892,Mercedes,Cabriolet
+255,388,25246,Jeep,Grand Cherokee
+159,778,72129,Dodge,Ram
+8,857,77540,Lincoln,MKC
+333,556,44116,Subaru,Impreza
+50,443,92418,Ford,Fiesta
+482,709,19983,Ford,Ecosport
+571,878,47238,GMC,Yukon
+513,616,18391,Chevrolet,Colorado
+217,808,89136,Cadillac,ATS
+381,882,40494,Subaru,Ascent
+627,840,35307,Toyota,Land Cruiser
+373,822,70814,BMW,X Series
+301,842,44985,Lexus,LS
+506,985,93210,BMW,6 Series
+224,511,24925,Kia,K900
+85,512,84494,GMC,Savana
+527,788,39171,Lexus,LC
+91,834,39770,Chevrolet,Equinox
+458,677,42442,Hyundai,Azera
+513,794,57217,Mazda,Miata
+648,755,15820,BMW,4 Series
+181,664,84891,Ford,Mustang
+447,516,10202,Chevrolet,Spark
+498,909,39423,Honda,CR-V
+368,661,42182,Chevrolet,Equinox
+63,898,123145,Subaru,WRX
+2,787,40666,Chevrolet,Silverado
+654,793,8811,Kia,Soul
+404,815,55192,GMC,Savana
+371,884,70748,Cadillac,CTS
+302,825,101255,Toyota,4Runner
+95,688,25278,Lexus,ES
+30,413,52623,Dodge,Journey
+960,967,1863,Kia,Cadenza
+0,357,35373,Ford,Edge
+219,840,45434,Cadillac,Escalade
+40,767,74091,Hyundai,Ioniq
+186,413,31084,Chevrolet,Tahoe
+333,444,29186,Ford,Escape
+140,347,41310,Ford,Fiesta
+163,810,93832,Mazda,Miata
+346,753,86095,Honda,HR-V
+523,836,19888,Mercedes,C-Class
+10,623,50254,Mitsubishi,Mirage
+782,923,32955,Infinity,QX60
+22,665,90871,Jeep,Wrangler JK
+468,897,29166,Hyundai,Santa Fe
+314,909,67542,Ford,Ecosport
+328,473,18863,Chevrolet,Equinox
+285,612,56882,Ford,Mustang
+323,406,11866,Ford,Transit
+316,821,40711,Dodge,Journey
+645,764,18383,Hyundai,Genesis G80
+349,456,19066,Cadillac,XTS
+781,818,5196,Jeep,Renegade
+581,802,48500,Honda,Fit
+118,345,39763,Lincoln,Navigator
+237,392,36104,Mercedes,S-Class
+305,354,7079,Kia,Sedona
+198,855,101742,Toyota,Avalon
+67,748,99093,Subaru,Outback
+910,939,2516,GMC,Sierra
+717,726,1551,Toyota,Tacoma
+881,982,17764,Kia,Sedona
+224,793,32463,Hyundai,Santa Fe
+311,562,62108,Chevrolet,Corvette
+193,406,48476,Mitsubishi,Mirage
+134,305,39651,BMW,5 Series
+96,749,69833,Kia,Soul
+267,694,34136,Hyundai,Ioniq
+117,926,55306,BMW,3 Series
+416,769,72747,Kia,Sedona
+495,786,39196,Buick,Envision
+87,910,124053,Kia,K900
+464,815,33447,Kia,Sorento
+191,932,73772,Cadillac,Escalade
+416,695,49886,Toyota,Camry
+165,698,98966,Infinity,QX30
+866,911,8715,Ford,F250
+136,887,118903,Subaru,Ascent
+304,613,24926,Kia,Stinger
+40,295,38176,Lexus,LC
+160,393,54721,Hyundai,Sonata
+126,733,110618,Buick,Regal
+175,804,53606,Lexus,NX
+222,827,98044,Mazda,CX-5
+305,754,93250,Toyota,RAV4
+141,622,68822,GMC,Savana
+376,999,102303,Mitsubishi,Lancer
+445,678,29322,Toyota,Prius
+184,733,27727,Lincoln,Navigator
+330,891,81059,Mazda,CX-3
+23,610,108458,Infinity,Q50
+127,982,131487,Dodge,Ram
+270,799,47868,Lexus,RX
+31,748,113234,Jeep,Grand Cherokee
+566,977,31210,Subaru,Legacy
+679,852,22491,Kia,Rio
+496,783,27393,GMC,Sierra
+125,336,32175,Mercedes,S-Class
+140,727,100501,Cadillac,XTS
+892,913,2973,Mazda,CX-3
+14,835,108706,Kia,Cadenza
+513,678,12137,Mercedes,Cabriolet
+471,722,35239,Buick,Lacrosse
+215,816,84078,Kia,Stinger
+188,977,32983,Infinity,Q70
+158,293,8954,Lexus,LX
+510,767,39781,Mercedes,GLS
+0,149,24455,Kia,Optima
+252,255,692,Lexus,RC
+582,603,5384,Infinity,QX50
+918,995,13636,Toyota,Avalon
+295,794,66049,Hyundai,Tucson
+162,913,63256,Honda,Civic
+631,902,63018,BMW,7 Series
+175,880,44845,Mitsubishi,Outlander
+278,435,12322,Kia,Cadenza
+171,264,15803,Mitsubishi,Eclipse
+395,564,36128,Chevrolet,Tahoe
+154,851,98395,Mercedes,GLA
+163,908,98591,Honda,Pilot
+540,985,78022,Chevrolet,Express
+845,942,7485,Lincoln,Continental
+216,873,105312,Kia,Sedona
+600,777,36222,Infinity,QX60
+506,919,65614,GMC,Canyon
+113,668,42888,Kia,K900
+282,359,15044,Infinity,QX70
+272,981,54699,Chevrolet,Malibu
+221,818,63023,Toyota,Tundra
+104,861,44379,Infinity,QX50
+121,900,49718,Buick,Encore
+206,843,60565,Mazda,Miata
+109,194,4970,Hyundai,Tucson
+62,769,114808,Ford,Fiesta
+171,622,91086,Cadillac,ATS
+765,794,7834,Chevrolet,Camaro
+30,47,2378,Kia,Cadenza
+908,909,188,Honda,Clarity
+76,555,29725,Kia,Sportage
+33,598,101873,Lincoln,Navigator
+415,928,101893,BMW,7 Series
+844,933,20517,Toyota,Tundra
+512,729,31430,Lexus,ES
+405,1010,99749,Dodge,Demon
+341,342,85,GMC,Savana
+629,646,4316,Kia,Cadenza
+966,1011,6030,Dodge,Ram
+350,945,97092,Subaru,Ascent
+795,958,21754,Ford,Flex
+531,706,39212,Toyota,Tacoma
+496,625,11725,Jeep,Wrangler JK
+480,1019,81415,Ford,Edge
+610,731,17761,Ford,Ranger
+135,384,17061,Dodge,Challenger
+10,403,46050,Honda,HR-V
+248,587,44697,BMW,6 Series
+725,822,16541,Mazda,CX-9
+750,827,12302,Honda,Civic
+694,773,13672,Mercedes,E-Class Wagon
+491,684,33390,Toyota,Highlander
+107,926,91416,Infinity,QX80
+691,716,3285,Chevrolet,Bolt
+322,887,42550,Chevrolet,Express
+464,703,54678,Toyota,Highlander
+136,383,19549,Mercedes,Maybach
+0,1023,143360,Chrysler,300
+441,892,78426,Honda,CR-V
+110,991,86849,Infinity,QX30
+202,489,36277,Lexus,RC
+246,531,53239,Cadillac,XTS
+307,826,42623,Kia,Niro
+84,387,26592,Cadillac,XT5
+129,454,35546,Toyota,Camry
+269,736,50833,GMC,Savana
+331,978,122601,Dodge,Challenger
+265,350,18576,Subaru,Legacy
+434,939,74954,Cadillac,Escalade
+637,886,59713,Hyundai,Sonata
+969,984,1326,Kia,Forte
+102,757,102469,Toyota,Avalon
+1003,1022,1431,Ford,Transit
+159,710,26180,Toyota,Camry
+367,838,80878,Hyundai,Elantra
+139,210,5689,Chevrolet,Monte Carlo
+302,395,18644,Lexus,RX
+297,980,112896,Kia,Sedona
+101,978,102797,Chevrolet,Colorado
+769,940,11128,Subaru,Forester
+401,556,28941,Lincoln,Continental
+121,924,67365,Mercedes,Maybach
+312,883,87302,Lincoln,MKZ
+203,1018,66732,Kia,Sorento
+199,852,52041,BMW,X Series
+530,935,25019,Toyota,Tundra
+246,915,54957,BMW,3 Series
+25,54,6519,Ford,Ecosport
+485,700,33291,Ford,F250
+849,854,599,BMW,5 Series
+679,886,20655,Chevrolet,Malibu
+111,432,26528,Toyota,RAV4
+255,416,14241,Ford,Flex
+61,538,58911,Chevrolet,Cruze
+148,241,17490,Ford,Edge
+297,918,70098,Lincoln,MKC
+565,954,70901,Buick,Cascada
+494,1023,98090,Mercedes,Cabriolet
+509,866,41268,GMC,Acadia
+252,973,104180,Infinity,QX70
+183,292,17854,Hyundai,Accent
+445,694,34340,Mazda,CX-3
+92,537,80808,Ford,Super Duty
+559,922,34048,Ford,Taurus
+125,618,73368,BMW,4 Series
+0,367,72297,Mercedes,E-Class
+428,949,85850,Ford,Expedition
+544,805,42815,GMC,Terrain
+28,455,57118,Lincoln,Continental
+17,112,22286,Infinity,Q70
+592,601,2043,BMW,M Series
+339,778,92433,Jeep,Grand Cherokee
+508,513,853,Chevrolet,Bolt
+414,983,55063,Dodge,Charger
+604,781,36384,Toyota,Sequoia
+696,937,42741,Dodge,Demon
+115,1002,60341,BMW,4 Series
+174,235,12843,Hyundai,Tucson
+424,497,14010,BMW,7 Series
+420,689,37154,Kia,Forte
+260,431,23822,BMW,Z4
+521,600,14356,BMW,X Series
+477,500,1911,Kia,Sorento
+779,836,13854,Mazda,CX-9
+21,244,24840,Ford,Expedition
+184,821,42132,Ford,Ecosport
+135,1018,116030,Kia,Sportage
+164,805,40075,Kia,Soul
+75,430,80410,Chevrolet,Express
+451,624,39755,Mercedes,GLE
+142,665,89961,Jeep,Wrangler JK
+618,687,18870,Chevrolet,Camaro
+19,236,26968,Subaru,BRZ
+479,764,35329,Mitsubishi,Outlander
+206,851,121071,Jeep,Grand Cherokee
+432,641,14264,Chevrolet,Colorado
+4,991,76189,Kia,Niro
+274,759,89575,Ford,Expedition
+628,771,30993,Cadillac,CT6
+252,701,77475,Chevrolet,Bolt
+74,725,60838,Jeep,Wrangler
+763,970,34797,Ford,Taurus
+460,997,96276,Mercedes,E-Class Wagon
+353,398,5282,BMW,7 Series
+278,473,37404,GMC,Savana
+133,812,36765,Cadillac,CTS
+294,677,44216,Chrysler,300
+562,855,52728,Subaru,Outback
+187,482,29039,Chevrolet,Corvette
+133,564,32669,GMC,Savana
+349,502,28031,Ford,Escape
+78,499,67561,Ford,F250
+999,1006,1556,Lexus,GS
+148,151,636,Mitsubishi,Outlander
+567,572,1103,Buick,Encore
+829,958,29252,Lexus,RX
+44,131,20743,Cadillac,CT6
+129,776,60637,Hyundai,Accent
+434,899,38099,Ford,Ecosport
+142,391,31716,Kia,Stinger
+388,977,60843,Ford,Escape
+823,1018,16762,Mercedes,GLS
+700,971,54318,Infinity,QX30
+634,715,16805,Toyota,Highlander
+505,894,57666,GMC,Canyon
+137,198,7990,Mercedes,GLS
+34,295,37577,Chevrolet,Monte Carlo
+621,856,51593,Infinity,QX60
+44,949,103543,Kia,Cadenza
+846,881,7122,Lincoln,Continental
+485,822,56873,Lexus,ES
+408,1017,48354,Ford,Explorer
+526,869,61109,Chevrolet,Cruze
+10,683,71844,Kia,Cadenza
+634,755,22429,Lexus,LS
+159,672,41911,Lexus,GX
+246,621,68926,Honda,Odyssey
+92,715,101002,Ford,Ranger
+402,823,62544,Ford,Fiesta
+396,565,24499,Chrysler,300
+72,921,122771,Lexus,GS
+580,699,27125,BMW,M Series
+239,332,21573,Chrysler,Pacifica
+47,132,20613,Kia,Rio
+175,772,45681,Kia,Optima
+340,559,31489,GMC,Canyon
+519,688,14421,Lexus,RC
+146,249,21423,Toyota,Avalon
+509,674,17295,Chevrolet,Express
+481,590,23839,Chevrolet,Volt
+739,972,17346,Chevrolet,Volt
+571,940,52336,Hyundai,Elantra
+249,524,41187,Hyundai,Santa Fe
+80,479,55258,GMC,Canyon
+469,852,36120,Chevrolet,Malibu
+165,264,21764,Subaru,Crosstrek
+22,217,24348,Mazda,CX-5
+232,605,40574,Mazda,CX-5
+385,604,53394,BMW,3 Series
+359,1018,60786,Ford,Transit
+329,684,85692,Toyota,Land Cruiser
+440,897,39408,Mazda,CX-5
+262,869,73461,Jeep,Wrangler
+509,694,43419,BMW,M Series
+19,62,4589,BMW,4 Series
+630,735,24506,Cadillac,CTS
+60,949,98105,GMC,Terrain
+161,894,88483,Lexus,ES
+341,592,44489,Chevrolet,Tahoe
+516,563,3123,Mazda,Miata
+101,940,66369,Hyundai,Tucson
+545,900,71312,Jeep,Wrangler JK
+35,494,62323,Infinity,QX60
+477,848,48304,Mitsubishi,Mirage
+205,404,39706,Chevrolet,Trax
+629,658,4146,Cadillac,CTS
+233,448,44452,BMW,2 Series
+448,921,78208,Kia,Forte
+621,672,7758,Infinity,Q70
+540,1017,64033,Lincoln,MKZ
+279,906,82224,Dodge,Demon
+395,766,43139,Kia,Sorento
+516,817,26447,Mercedes,E-Class Wagon
+331,702,61974,Chevrolet,Tahoe
+751,974,21263,BMW,X Series
+172,311,20861,Subaru,Legacy
+307,822,77485,Kia,Forte
+158,653,69817,BMW,2 Series
+214,231,2647,BMW,M Series
+552,777,54076,Mitsubishi,Lancer
+293,330,6250,Lexus,RX
+701,862,14241,Subaru,Outback
+559,1014,47425,Lexus,LC
+247,664,36199,Chevrolet,Trax
+46,297,49774,Dodge,Charger
+51,332,33458,Toyota,Highlander
+510,627,8274,Infinity,QX80
+394,485,18001,Lincoln,Navigator
+605,992,75643,Subaru,BRZ
+270,547,33296,Toyota,Land Cruiser
+94,849,96287,Kia,Optima
+270,673,47584,Ford,Mustang
+68,723,88212,Dodge,Demon
+45,218,17423,Jeep,Wrangler
+285,678,51767,Subaru,Outback
+520,851,71874,Lincoln,MKC
+86,467,33804,BMW,2 Series
+807,836,4832,Subaru,Legacy
+850,851,186,Jeep,Wrangler
+394,709,57842,Ford,Ranger
+542,563,1663,BMW,7 Series
+570,923,44408,Toyota,Sequoia
+485,510,6026,Kia,Rio
+280,553,23425,Ford,Transit
+810,983,23283,Toyota,Camry
+498,853,34629,Toyota,Sequoia
+204,635,90519,Toyota,RAV4
+365,762,70090,Mitsubishi,Lancer
+541,784,39193,Mercedes,GLS
+104,505,69657,Chevrolet,Silverado
+68,991,59829,Lexus,LS
+41,370,21816,Subaru,Outback
+632,1021,55145,Subaru,WRX
+203,888,92545,Honda,Clarity
+179,930,90366,Subaru,Outback
+125,506,61094,Ford,Expedition
+332,965,45922,Chrysler,300
+275,862,69095,Lexus,GX
+430,851,91976,Hyundai,Ioniq
+491,906,45996,Lexus,LS
+445,600,29514,Honda,Clarity
+48,615,52483,Mercedes,GLS
+82,593,42952,Jeep,Wrangler
+496,589,22727,Honda,Pilot
+595,994,38231,Buick,Encore
+135,664,82788,Dodge,Challenger
+677,960,25365,BMW,2 Series
+122,215,18466,Mercedes,Roadster
+240,617,27069,Lincoln,Continental
+535,702,20554,Lexus,GX
+43,970,108585,BMW,6 Series
+244,789,46797,Mazda,CX-9
+134,203,16336,Chevrolet,Malibu
+432,951,82920,Mitsubishi,Lancer
+478,953,64576,Toyota,Prius
+17,72,5674,Hyundai,Accent
+100,635,79839,Toyota,Camry
+350,739,64284,Kia,Soul
+73,722,71821,Dodge,Grand Caravan
+554,737,39496,Hyundai,Genesis G80
+57,864,84110,Ford,Transit
+44,507,60558,Lexus,GX
+279,770,64952,Honda,Ridgeline
+49,664,41742,BMW,Z4
+165,448,59023,Mercedes,Cabriolet
+1,398,42566,Hyundai,Elantra
+567,860,49464,Jeep,Grand Cherokee
+469,506,3961,Toyota,Camry
+117,440,46522,BMW,M Series
+337,744,29677,Honda,Clarity
+572,885,69473,Lexus,RX
+615,626,2561,Honda,Clarity
+509,736,41983,Mitsubishi,Eclipse
+159,482,43530,GMC,Sierra
+420,439,4123,Kia,Soul
+134,167,6819,Mercedes,GLA
+664,865,14321,Kia,Sportage
+400,737,35757,Ford,Explorer
+54,505,37631,BMW,5 Series
+594,617,4117,BMW,2 Series
+596,851,20763,Jeep,Wrangler
+22,127,14744,Hyundai,Sonata
+557,714,22905,Toyota,Camry
+214,437,27026,Mazda,Miata
+20,715,84025,Ford,Super Duty
+199,626,66581,Buick,Regal
+167,496,30653,Infinity,QX50
+368,799,61254,Cadillac,CT6
+63,814,90842,Lexus,RX
+520,713,20104,Chevrolet,Volt
+334,399,7364,Hyundai,Genesis G80
+186,267,15949,Infinity,Q70
+269,328,14841,Buick,Envision
+212,743,99118,Subaru,Ascent
+533,558,2865,Subaru,BRZ
+524,821,56119,BMW,Z4
+166,545,50963,Chevrolet,Impala
+7,108,12291,Ford,F350
+66,643,54706,GMC,Savana
+279,750,63832,Chrysler,Pacifica
+264,267,606,Kia,Stinger
+897,1022,29226,Hyundai,Ioniq
+25,440,69160,Lexus,RC
+648,749,8738,Mercedes,GLC
+361,774,22091,Lexus,LX
+527,574,6475,Cadillac,CT6
+270,783,99970,Buick,Envision
+447,890,42356,Lexus,LC
+67,724,56672,Dodge,Challenger
+201,1016,85377,Hyundai,Accent
+115,464,55879,Kia,Sorento
+515,640,26292,Chevrolet,Impala
+556,655,18843,Chevrolet,Monte Carlo
+107,646,64338,Infinity,QX70
+453,936,64960,Cadillac,XT5
+420,475,6423,Infinity,Q70
+180,849,94598,Ford,Expedition
+350,605,31032,Chevrolet,Colorado
+9,438,72915,Toyota,Camry
+220,383,15603,Mazda,Miata
+660,923,51806,Chevrolet,Tahoe
+634,1013,44477,Subaru,Crosstrek
+983,1006,3707,Toyota,Camry
+363,398,8807,Chevrolet,Cruze
+809,816,461,BMW,5 Series
+445,500,13114,Subaru,Impreza
+97,924,124249,Ford,Flex
+411,538,21324,Mitsubishi,Outlander
+126,253,31449,Infinity,QX80
+4,971,125562,Honda,Clarity
+299,746,99939,Toyota,Prius
+274,577,38468,Mazda,CX-5
+233,940,44905,Cadillac,CT6
+35,618,72982,Lexus,IS
+69,806,125494,BMW,3 Series
+543,638,15583,GMC,Yukon
+96,829,33887,Lexus,LX
+211,868,59796,Chevrolet,Bolt
+602,835,33039,Lexus,GX
+607,968,49363,Lexus,ES
+124,239,20515,Lincoln,MKC
+142,701,41455,BMW,6 Series
+236,971,108381,Chevrolet,Spark
+151,696,71195,Chrysler,300
+292,767,68589,Mercedes,Cabriolet
+746,977,26028,Buick,Envision
+267,1000,115310,Lexus,LX
+480,655,32970,Lexus,NX
+74,729,94895,Kia,Forte
+230,285,6851,Dodge,Durango
+150,599,90095,Hyundai,Accent
+710,847,21733,Mercedes,GLA
+16,743,113012,Chevrolet,Bolt
+151,874,87940,Mercedes,Maybach
+59,860,92667,Hyundai,Sonata
+392,685,46451,Chevrolet,Spark
+395,576,40591,Toyota,Sequoia
+667,886,39899,Buick,Encore
+713,852,30967,Kia,Sportage
+145,884,115251,Chevrolet,Trax
+115,648,62692,Hyundai,Tucson
+335,782,45078,Jeep,Wrangler
+232,385,27040,Chevrolet,Equinox
+675,786,29396,Chevrolet,Silverado
+576,669,17223,Infinity,QX80
+514,707,39683,Chevrolet,Equinox
+45,510,83386,Lexus,LS
+133,516,67257,Mazda,CX-3
+399,974,69892,Subaru,Legacy
+831,992,36345,Chevrolet,Spark
+510,655,15764,Mercedes,GLS
+18,139,23568,Kia,Sedona
+90,985,75078,Jeep,Compass
+84,667,25440,Cadillac,Escalade
+385,900,63993,Chevrolet,Express
+310,615,55810,Buick,Enclave
+107,486,61155,Lexus,ES
+80,93,1137,Jeep,Renegade
+254,993,42039,Chevrolet,Cruze
+537,928,62638,Mazda,CX-3
+55,920,37974,Buick,Encore
+343,398,12632,Ford,F350
+600,991,23727,Dodge,Ram
+120,857,57086,Mazda,CX-3
+389,404,3232,Hyundai,Elantra
+130,587,55739,Lexus,GX
+135,876,130519,GMC,Terrain
+602,925,33464,Toyota,4Runner
+224,329,8667,Dodge,Grand Caravan
+282,759,26711,Subaru,Forester
+221,892,54139,Mercedes,S-Class
+208,461,33706,Toyota,Land Cruiser
+162,221,5329,Lexus,LX
+210,731,59823,Honda,Fit
+141,252,9344,Ford,Escape
+152,647,85958,Toyota,RAV4
+192,613,72243,Infinity,QX60
+343,532,31739,Hyundai,Accent
+392,633,61666,BMW,7 Series
+123,956,130466,Mercedes,Maybach
+654,907,49228,Mazda,CX-9
+382,891,85297,Hyundai,Kona
+777,856,15419,Jeep,Wrangler JK
+521,678,13627,Chevrolet,Camaro
+815,988,40231,Mercedes,S-Class
+18,995,88390,Mercedes,GLC
+262,381,28246,Toyota,Sequoia
+64,657,63195,Chevrolet,Volt
+135,310,11524,Honda,Accord
+40,473,79559,Subaru,Ascent
+266,895,116799,Cadillac,XTS
+427,660,48113,Mercedes,GLE
+810,973,11853,Honda,CR-V
+230,509,29160,Jeep,Compass
+492,849,77525,BMW,7 Series
+591,690,11024,Jeep,Compass
+350,737,32015,Ford,F350
+149,810,82818,Hyundai,Veloster
+13,224,23469,Toyota,Tundra
+494,707,33017,Chevrolet,Equinox
+164,1017,71175,Infinity,QX30
+903,922,4631,Hyundai,Elantra
+129,932,102512,Subaru,BRZ
+135,418,35365,Hyundai,Azera
+858,1019,26406,Toyota,Tacoma
+321,684,57642,Infinity,Q50
+123,910,89162,Lincoln,MKC
+311,806,93465,Lexus,RC
+80,879,119384,Lexus,IS
+595,944,34454,Chevrolet,Malibu
+89,430,56561,Dodge,Demon
+430,453,5731,Cadillac,Escalade
+207,668,38581,Ford,Focus
+408,545,21605,Chevrolet,Spark
+372,419,10700,Subaru,BRZ
+326,605,26751,Hyundai,Genesis G80
+4,477,72024,Mazda,CX-3
+344,1007,78465,Chevrolet,Traverse
+438,479,6068,Chevrolet,Colorado
+135,652,35171,Kia,Optima
+839,918,9495,Honda,Pilot
+227,786,28856,Lincoln,MKC
+422,479,14353,Lexus,LX
+691,838,25107,Mercedes,GLC
+109,112,543,Ford,F150
+200,571,80202,Chevrolet,Spark
+492,867,87612,Hyundai,Genesis G80
+104,717,68294,Infinity,Q70
+768,895,32760,BMW,M Series
+786,893,14502,Lexus,RX
+16,237,43374,Ford,F150
+146,467,51431,Honda,Civic
+800,975,31049,Jeep,Compass
+489,686,10505,Mazda,CX-3
+462,663,42781,Chevrolet,Silverado
+423,558,36822,Mazda,CX-5
+529,994,49601,Mitsubishi,Outlander
+226,275,9518,Kia,Stinger
+10,515,31960,GMC,Terrain
+538,763,47467,GMC,Sierra
+310,425,29307,Mercedes,Cabriolet
+677,1006,74837,Lexus,RX
+702,983,26185,Ford,Fiesta
+373,498,13733,Mazda,CX-5
+595,844,13343,Ford,F250
+777,796,4048,Jeep,Grand Cherokee
+134,701,31162,Mercedes,E-Class Wagon
+708,1005,49771,Chevrolet,Cruze
+100,359,58824,Hyundai,Accent
+81,334,47454,Ford,Taurus
+481,762,36367,Buick,Lacrosse
+553,558,873,BMW,3 Series
+936,1023,18661,Chevrolet,Traverse
+365,836,83417,Subaru,Legacy
+71,904,74623,Mercedes,GLS
+597,662,14539,Kia,Forte
+411,766,49889,Toyota,Land Cruiser
+417,1006,113294,Honda,CR-V
+39,896,57314,Cadillac,CTS
+859,952,22106,Ford,Explorer
+92,863,62017,Mazda,CX-9
+268,445,38486,Mazda,Miata
+594,651,8257,Jeep,Wrangler JK
+342,669,44241,Mercedes,Roadster
+820,961,9716,Lexus,IS
+291,520,30713,Dodge,Journey
+321,644,34008,Ford,GT
+72,533,40010,Toyota,Avalon
+373,544,39494,Subaru,WRX
+271,324,3253,Buick,Enclave
+62,529,28481,Toyota,Camry
+769,950,9901,Mercedes,GLC
+3,1012,93165,Toyota,Tacoma
+666,981,60507,Mercedes,E-Class
+286,501,23862,Jeep,Renegade
+494,567,13447,Ford,Fiesta
+131,776,93675,Toyota,Tundra
+324,477,37092,BMW,X Series
+310,601,53676,Hyundai,Genesis G80
+753,804,10295,Dodge,Challenger
+706,851,15764,Chrysler,Pacifica
+70,321,48453,Dodge,Durango
+237,282,11135,Buick,Encore
+381,958,109826,Mercedes,GLA
+249,980,91196,Hyundai,Elantra
+600,915,21325,Toyota,Camry
+626,855,18103,BMW,3 Series
+104,115,2593,Mercedes,Roadster
+1002,1009,2038,GMC,Terrain
+167,290,14799,Chevrolet,Silverado
+332,759,76044,Infinity,QX70
+253,922,82886,Subaru,Ascent
+435,522,17994,Infinity,QX70
+142,671,59639,GMC,Canyon
+604,785,37126,Honda,Civic
+79,434,21717,Toyota,Avalon
+158,175,3086,Lexus,RX
+796,1001,37450,Ford,GT
+370,945,47974,Ford,Taurus
+116,757,80149,GMC,Sierra
+295,818,96192,Lexus,IS
+851,1010,16573,Hyundai,Santa Fe
+795,798,767,Lexus,RX
+481,804,30743,Hyundai,Accent
+311,332,1871,Ford,Fiesta
+640,677,4070,Toyota,Tundra
+584,797,44086,Lexus,IS
+549,718,35043,Lexus,RC
+452,713,30517,Ford,Escape
+478,603,15728,Ford,Fiesta
+41,160,14235,Chevrolet,Camaro
+815,838,4731,Kia,Forte
+872,937,7364,Mercedes,Cabriolet
+98,603,44897,Ford,F250
+279,912,81348,BMW,M Series
+364,451,22076,Chevrolet,Impala
+652,667,2934,Subaru,Forester
+339,1006,95352,Honda,Accord
+199,222,3503,Mercedes,Roadster
+284,555,65369,GMC,Sierra
+655,918,57765,Lexus,LC
+217,972,82941,Toyota,Camry
+779,890,10604,Lexus,RX
+660,1021,32711,Chevrolet,Impala
+266,871,125326,Mercedes,GLS
+590,751,15280,Toyota,Sequoia
+425,866,91701,Cadillac,CT6
+440,679,54678,BMW,4 Series
+463,676,47521,Hyundai,Sonata
+18,219,45319,Toyota,Tundra
+85,484,27629,Mitsubishi,Mirage
+585,754,32252,GMC,Yukon
+164,225,6511,Lincoln,Navigator
+166,653,46771,Hyundai,Tucson
+205,846,93360,Mitsubishi,Mirage
+548,741,36361,Ford,Ranger
+411,676,36222,Infinity,QX70
+104,431,33250,Infinity,QX80
+201,244,3031,Jeep,Wrangler JK
+773,992,11931,Mercedes,Roadster
+42,915,44578,Mazda,CX-9
+619,818,39886,Mercedes,GLA
+64,767,90029,Infinity,Q50
+374,977,88921,Subaru,Outback
+198,939,89850,Jeep,Wrangler
+336,535,26411,Chevrolet,Silverado
+362,381,2372,Ford,Flex
+857,888,5130,Ford,F250
+246,629,49820,GMC,Acadia
+53,928,49615,Lexus,IS
+802,883,16727,Mazda,CX-9
+67,630,54295,Chevrolet,Monte Carlo
+492,821,42527,Lexus,IS
+53,258,42984,Toyota,Prius
+288,383,21562,BMW,M Series
+216,639,66120,Lexus,RX
+541,612,6991,Chevrolet,Camaro
+54,475,71574,Chevrolet,Impala
+292,503,17223,Cadillac,XTS
+61,506,55730,Chrysler,300
+346,745,58792,Subaru,Legacy
+37,934,69570,Toyota,Tacoma
+243,284,7072,Lexus,GX
+458,953,90087,Lexus,IS
+398,1023,68614,Honda,Odyssey
+323,932,41507,Kia,Rio
+501,708,38519,Kia,Sedona
+275,298,3958,Kia,Sportage
+198,273,18497,Infinity,QX30
+382,537,33525,BMW,6 Series
+525,616,12957,Infinity,Q50
+1,264,42866,Mercedes,GLS
+96,503,67507,Lexus,NX
+512,517,684,GMC,Acadia
+155,158,686,Buick,Enclave
+76,271,22937,Honda,Ridgeline
+158,381,48686,Mercedes,GLA
+167,682,47416,Chevrolet,Trax
+345,448,15065,Toyota,Sequoia
+272,783,106230,Kia,Optima
+134,649,75172,Mercedes,S-Class
+328,639,39303,BMW,M Series
+740,841,19492,BMW,M Series
+814,923,17751,Dodge,Challenger
+219,698,47339,Jeep,Wrangler
+187,576,79094,Toyota,Prius
+15,854,139177,Ford,F250
+842,903,14678,Jeep,Grand Cherokee
+158,879,43447,Kia,Niro
+489,646,18991,Kia,Sorento
+142,167,1976,Chevrolet,Traverse
+179,948,73959,Ford,Flex
+302,457,8167,Hyundai,Santa Fe
+679,958,49645,Hyundai,Elantra
+12,579,38953,Infinity,QX60
+749,868,24996,Kia,Forte
+173,382,53299,GMC,Acadia
+570,891,33836,Hyundai,Azera
+179,744,98191,Subaru,Forester
+98,177,10482,Lexus,LS
+99,1010,118350,Kia,Cadenza
+140,495,56933,Mitsubishi,Lancer
+843,850,1417,Lexus,LS
+918,923,1133,Ford,Escape
+90,855,94412,Mitsubishi,Mirage
+213,796,60054,Hyundai,Elantra
+335,488,27040,Lexus,NX
+399,766,35847,Toyota,Sienna
+632,755,24164,Chevrolet,Camaro
+288,925,96113,Kia,Sorento
+73,484,54863,Mercedes,GLS
+265,420,19485,Ford,Explorer
+722,935,41223,Jeep,Wrangler
+35,868,45960,Dodge,Ram
+635,800,38079,Honda,Accord
+211,280,12869,Kia,Sorento
+153,802,54531,Dodge,Ram
+338,863,51145,Dodge,Durango
+727,778,11090,Infinity,QX70
+370,977,118305,Jeep,Wrangler JK
+211,240,2974,GMC,Savana
+101,194,14649,Mercedes,Roadster
+310,379,13402,Chevrolet,Impala
+254,741,72012,Ford,Flex
+658,969,19783,Buick,Cascada
+180,643,42283,Chevrolet,Bolt
+102,717,118338,Hyundai,Sonata
+221,458,23473,Honda,Pilot
+768,823,11669,Cadillac,CTS
+145,726,102380,BMW,5 Series
+284,1003,86784,BMW,X Series
+25,352,39845,Chevrolet,Bolt
+133,746,93206,Mercedes,C-Class
+0,963,108670,Chevrolet,Spark
+63,254,30481,Subaru,Outback
+874,1011,25184,Mercedes,GLS
+86,939,86106,Lexus,RC
+421,496,13656,Chevrolet,Corvette
+390,415,5236,Mazda,CX-5
+451,706,30139,Mercedes,GLS
+69,102,3540,Lexus,RX
+326,723,77131,Lexus,RC
+67,152,15969,Toyota,Tundra
+415,570,11175,Toyota,Highlander
+194,943,127320,Infinity,QX80
+159,602,85058,Chevrolet,Equinox
+468,761,64780,Dodge,Journey
+580,619,11210,Toyota,RAV4
+224,819,59522,Infinity,QX60
+745,790,11223,Chevrolet,Monte Carlo
+512,911,50439,Chevrolet,Traverse
+622,761,23193,Cadillac,XT5
+591,728,34005,Infinity,QX70
+195,270,5998,BMW,3 Series
+341,448,8113,BMW,2 Series
+431,758,42868,Ford,Flex
+438,645,47078,Subaru,Crosstrek
+17,434,74389,Subaru,Legacy
+703,1000,36820,Jeep,Renegade
+61,942,71789,Lexus,RC
+45,324,47958,Ford,Escape
+90,273,28331,Mercedes,GLE
+11,1004,98726,Honda,Clarity
+753,898,24253,Mitsubishi,Outlander
+264,561,29456,Toyota,Corolla
+271,894,68491,Chevrolet,Corvette
+110,289,15356,BMW,5 Series
+232,591,19837,Ford,Super Duty
+385,744,44707,Toyota,Sequoia
+561,698,10483,Chevrolet,Monte Carlo
+40,323,66340,Hyundai,Tucson
+504,665,35455,Lexus,RC
+35,960,91299,Mitsubishi,Mirage
+875,930,9956,Chevrolet,Tahoe
+536,827,14730,Toyota,Tundra
+50,371,51431,Kia,K900
+594,965,24608,Subaru,Forester
+469,922,92787,Toyota,Highlander
+362,883,46227,Jeep,Grand Cherokee
+157,196,3826,Hyundai,Santa Fe
+97,330,43570,Chevrolet,Corvette
+1003,1006,564,Lincoln,Continental
+430,445,3291,Hyundai,Azera
+326,763,48813,Honda,Clarity
+788,929,24815,Chevrolet,Bolt
+611,650,8302,Chevrolet,Express
+479,928,42769,Toyota,Tacoma
+845,892,11894,BMW,7 Series
+209,288,18229,Mercedes,GLS
+261,692,60914,GMC,Terrain
+401,768,71995,Lexus,LS
+644,967,36456,Mitsubishi,Eclipse
+759,776,3878,Buick,Encore
+733,850,15996,Subaru,Legacy
+218,239,3035,Kia,Sorento
+786,887,6242,Mazda,CX-5
+307,516,43353,Kia,Optima
+109,884,62143,Ford,Explorer
+925,956,4275,Jeep,Renegade
+15,318,61703,Mazda,CX-5
+563,704,23371,BMW,5 Series
+257,932,61092,Buick,Regal
+59,324,49834,Lincoln,Continental
+130,667,73693,Cadillac,XTS
+871,922,14721,GMC,Savana
+192,657,24082,Mercedes,C-Class
+169,176,1479,Chevrolet,Impala
+447,566,22193,Mazda,CX-9
+937,970,3572,Ford,Flex
+422,991,58350,Kia,Soul
+11,614,45950,Lexus,RX
+241,518,41680,Honda,Fit
+77,164,8581,Mercedes,S-Class
+57,404,27668,Jeep,Compass
+269,822,94058,Toyota,Avalon
+133,334,35530,Ford,F250
+81,950,117063,Mercedes,GLE
+497,590,13495,Ford,F250
+148,933,90045,BMW,2 Series
+442,621,12579,Lexus,GX
+423,948,76132,BMW,5 Series
+124,959,66766,Chevrolet,Spark
+354,599,31060,Mazda,CX-5
+357,530,28352,Mercedes,GLS
+680,957,56531,Kia,Rio
+119,186,15166,Mercedes,GLE
+211,478,57816,Hyundai,Santa Fe
+304,745,35642,Toyota,Tacoma
+36,163,21800,Infinity,QX80
+792,1005,21757,Infinity,QX30
+409,754,32418,Toyota,RAV4
+842,1009,20400,Toyota,Tacoma
+114,861,109143,Kia,Sorento
+744,1007,21777,Hyundai,Azera
+248,651,41758,Ford,GT
+848,905,12856,Jeep,Grand Cherokee
+714,823,27142,Kia,Niro
+288,641,70994,Honda,Accord
+231,734,32255,Toyota,Sequoia
+12,483,68910,Hyundai,Sonata
+17,424,53810,Infinity,QX50
+70,997,109093,Hyundai,Santa Fe
+97,902,140223,Chevrolet,Cruze
+16,383,21087,Buick,Encore
+690,697,1661,Ford,Ecosport
+40,409,65949,Dodge,Demon
+325,790,41334,Subaru,Crosstrek
+482,955,56383,Toyota,Camry
+318,953,38554,Cadillac,XTS
+496,837,29560,Chevrolet,Malibu
+245,790,72795,Hyundai,Genesis G80
+192,275,14096,BMW,Z4
+237,380,35250,Hyundai,Genesis G80
+429,906,58179,Toyota,Camry
+387,568,19141,Toyota,Corolla
+117,794,113302,Chevrolet,Impala
+13,982,110784,Honda,Fit
+465,770,45946,Toyota,Tacoma
+373,1018,83071,Chevrolet,Traverse
+134,507,72606,Infinity,QX80
+399,500,25061,Jeep,Wrangler
+402,671,55146,Lincoln,MKC
+502,935,99705,Chrysler,Pacifica
+144,183,9871,Ford,Escape
+662,831,34578,Hyundai,Azera
+300,529,28882,Dodge,Journey
+60,129,14336,BMW,Z4
+173,668,97594,Mercedes,GLA
+27,298,53142,Kia,Optima
+80,147,17239,Honda,Fit
+109,754,81745,Jeep,Wrangler JK
+946,975,3317,Subaru,Crosstrek
+346,353,684,Lexus,RC
+311,944,55981,Ford,Flex
+131,940,97886,Ford,Expedition
+26,485,32052,Lincoln,MKC
+183,918,50421,Chevrolet,Spark
+738,1005,22987,Buick,Enclave
+54,993,125085,Jeep,Wrangler
+423,700,27547,Lincoln,MKZ
+631,776,24387,Lexus,LX
+428,931,44777,Ford,Ranger
+45,720,104534,Mazda,CX-9
+374,1021,91619,Ford,Flex
+734,849,26593,Kia,K900
+565,652,20660,Buick,Lacrosse
+734,903,16281,Subaru,Crosstrek
+678,799,31993,Infinity,QX80
+126,171,10695,BMW,5 Series
+884,945,14560,Ford,Ecosport
+184,457,52291,Lexus,LX
+719,736,3355,Jeep,Grand Cherokee
+342,971,78883,Toyota,RAV4
+693,852,10413,BMW,3 Series
+428,621,30767,Kia,Sportage
+160,955,114789,Toyota,Sienna
+217,564,50437,Chevrolet,Volt
+739,914,34090,Mazda,CX-3
+77,830,41901,Honda,Ridgeline
+308,641,38761,Ford,Super Duty
+524,681,29573,Lincoln,Navigator
+126,909,66259,Chevrolet,Malibu
+355,576,49486,Mitsubishi,Lancer
+56,549,86095,Subaru,Crosstrek
+100,801,62704,BMW,5 Series
+57,996,42712,Hyundai,Accent
+895,950,13381,Mercedes,Maybach
+129,990,66870,Toyota,RAV4
+140,837,62992,Ford,Escape
+257,734,39884,Cadillac,CT6
+8,293,17420,Hyundai,Azera
+44,651,64492,Ford,Super Duty
+270,581,54865,Mitsubishi,Eclipse
+4,165,31598,Mercedes,C-Class
+696,819,11099,Chevrolet,Malibu
+517,746,18103,Kia,Stinger
+158,725,39363,Ford,F150
+115,600,38495,Mitsubishi,Lancer
+594,771,33473,Toyota,Camry
+461,956,37912,Honda,Clarity
+106,327,51654,Ford,F250
+197,998,98520,Ford,Taurus
+504,785,42428,Kia,Forte
+207,986,117777,BMW,Z4
+740,1019,43620,Cadillac,XT5
+517,622,18330,Ford,Mustang
+307,828,71089,Cadillac,Escalade
+533,842,16006,Cadillac,CTS
+507,1022,49729,Mazda,Miata
+108,313,41508,Toyota,Camry
+59,642,64641,Lexus,NX
+209,924,86096,Infinity,QX70
+529,752,15302,Mercedes,E-Class
+750,787,6794,Subaru,Legacy
+127,440,38980,Chevrolet,Spark
+38,885,134110,Subaru,Crosstrek
+302,497,38639,Jeep,Wrangler
+309,796,97996,Chevrolet,Express
+284,299,3529,Ford,Edge
+53,104,5172,Subaru,Outback
+218,729,104696,Mitsubishi,Outlander
+77,728,66610,Dodge,Ram
+438,629,39660,Mercedes,Roadster
+232,811,95521,Lexus,GS
+637,880,34481,Jeep,Compass
+577,1004,46641,Lexus,RC
+553,658,19824,Ford,Escape
+108,635,92760,Cadillac,CT6
+447,506,6934,Mitsubishi,Eclipse
+662,999,42796,Hyundai,Tucson
+626,995,69579,Honda,Fit
+520,919,69394,Chevrolet,Spark
+880,1015,19798,BMW,M Series
+174,349,34571,Mercedes,S-Class
+572,705,12064,Honda,Pilot
+103,746,93959,Subaru,Crosstrek
+136,919,126231,Infinity,Q50
+547,844,38598,Lexus,IS
+49,810,101384,Lexus,ES
+299,918,117912,Ford,Super Duty
+513,952,61392,Ford,Super Duty
+142,273,15083,Buick,Lacrosse
+195,218,2593,Mazda,CX-3
+566,643,16081,Subaru,WRX
+309,358,12484,Ford,F250
+752,959,46892,Mercedes,GLC
+417,1012,92870,Lexus,GX
+399,506,20282,Jeep,Grand Cherokee
+200,945,92903,BMW,4 Series
+98,549,38686,Jeep,Compass
+346,499,16989,Ford,Fiesta
+65,862,47711,Mazda,CX-5
+661,944,55852,Toyota,Tundra
+21,516,73571,Mitsubishi,Eclipse
+649,890,24454,Hyundai,Santa Fe
+103,426,54412,Subaru,Impreza
+613,1022,46153,GMC,Yukon
+111,562,91438,Cadillac,ATS
+482,543,10890,Buick,Cascada
+6,139,23505,Kia,Rio
+106,195,4853,BMW,4 Series
+213,384,45293,Hyundai,Sonata
+95,610,65920,Cadillac,CT6
+558,709,31750,Kia,Sedona
+198,393,16056,Lexus,NX
+430,967,107765,Chevrolet,Silverado
+348,487,12828,BMW,M Series
+372,581,46543,Toyota,RAV4
+149,454,41273,Subaru,Impreza
+862,951,21113,Dodge,Challenger
+279,526,49524,Chevrolet,Cruze
+3,250,50393,Ford,Super Duty
+272,917,95885,Ford,Focus
+445,1002,31225,Ford,Taurus
+769,802,4351,Toyota,Sequoia
+414,755,65372,Honda,Clarity
+24,79,15415,Honda,Clarity
+557,966,56627,Infinity,QX30
+367,488,30740,Jeep,Wrangler JK
+325,958,38050,Subaru,WRX
+558,693,30895,Lexus,LC
+105,674,46845,Toyota,Sequoia
+206,921,52123,Ford,Super Duty
+269,426,41025,Infinity,QX60
+263,498,50969,Kia,Sorento
+808,1003,34581,Mitsubishi,Mirage
+386,869,94118,Infinity,QX60
+824,945,32562,Jeep,Renegade
+695,1004,46441,Mercedes,Roadster
+539,586,11894,Dodge,Demon
+553,960,47614,Ford,Flex
+101,608,61420,Ford,Fiesta
+127,616,98272,Jeep,Compass
+35,178,17292,Ford,Transit
+392,985,60667,Cadillac,XT5
+188,557,17546,Buick,Encore
+331,348,3844,Toyota,Camry
+587,1004,77046,Lexus,RX
+471,866,40809,Toyota,Camry
+768,889,17534,GMC,Yukon
+246,273,6395,Chevrolet,Cruze
+859,1014,30517,Kia,Rio
+36,701,124842,Ford,Flex
+24,785,122905,GMC,Sierra
+474,501,4397,Ford,Fiesta
+157,614,41893,Mazda,CX-3
+797,926,12330,Mercedes,GLS
+374,467,21041,Mitsubishi,Eclipse
+502,587,7985,Infinity,QX30
+330,947,90535,Dodge,Ram
+438,621,11999,Hyundai,Kona
+425,942,53722,Mercedes,S-Class
+435,1022,118926,Subaru,Crosstrek
+532,819,27393,Ford,GT
+200,785,96535,Hyundai,Accent
+58,991,85845,GMC,Yukon
+543,782,25545,Chevrolet,Silverado
+593,666,18726,Chevrolet,Tahoe
+363,822,75856,GMC,Sierra
+397,1022,42124,GMC,Yukon
+160,733,95330,Mercedes,GLA
+107,678,87302,GMC,Terrain
+460,861,68367,Ford,Ecosport
+173,352,15519,BMW,3 Series
